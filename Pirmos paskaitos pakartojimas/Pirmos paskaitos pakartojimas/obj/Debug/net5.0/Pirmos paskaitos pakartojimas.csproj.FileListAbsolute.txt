@@ -1,0 +1,16 @@
+C:\Users\Zygimantas\source\repos\Pirmos paskaitos pakartojimas\Pirmos paskaitos pakartojimas\bin\Debug\net5.0\Pirmos paskaitos pakartojimas.exe
+C:\Users\Zygimantas\source\repos\Pirmos paskaitos pakartojimas\Pirmos paskaitos pakartojimas\bin\Debug\net5.0\Pirmos paskaitos pakartojimas.deps.json
+C:\Users\Zygimantas\source\repos\Pirmos paskaitos pakartojimas\Pirmos paskaitos pakartojimas\bin\Debug\net5.0\Pirmos paskaitos pakartojimas.runtimeconfig.json
+C:\Users\Zygimantas\source\repos\Pirmos paskaitos pakartojimas\Pirmos paskaitos pakartojimas\bin\Debug\net5.0\Pirmos paskaitos pakartojimas.runtimeconfig.dev.json
+C:\Users\Zygimantas\source\repos\Pirmos paskaitos pakartojimas\Pirmos paskaitos pakartojimas\bin\Debug\net5.0\Pirmos paskaitos pakartojimas.dll
+C:\Users\Zygimantas\source\repos\Pirmos paskaitos pakartojimas\Pirmos paskaitos pakartojimas\bin\Debug\net5.0\ref\Pirmos paskaitos pakartojimas.dll
+C:\Users\Zygimantas\source\repos\Pirmos paskaitos pakartojimas\Pirmos paskaitos pakartojimas\bin\Debug\net5.0\Pirmos paskaitos pakartojimas.pdb
+C:\Users\Zygimantas\source\repos\Pirmos paskaitos pakartojimas\Pirmos paskaitos pakartojimas\obj\Debug\net5.0\Pirmos paskaitos pakartojimas.csproj.AssemblyReference.cache
+C:\Users\Zygimantas\source\repos\Pirmos paskaitos pakartojimas\Pirmos paskaitos pakartojimas\obj\Debug\net5.0\Pirmos paskaitos pakartojimas.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Zygimantas\source\repos\Pirmos paskaitos pakartojimas\Pirmos paskaitos pakartojimas\obj\Debug\net5.0\Pirmos paskaitos pakartojimas.AssemblyInfoInputs.cache
+C:\Users\Zygimantas\source\repos\Pirmos paskaitos pakartojimas\Pirmos paskaitos pakartojimas\obj\Debug\net5.0\Pirmos paskaitos pakartojimas.AssemblyInfo.cs
+C:\Users\Zygimantas\source\repos\Pirmos paskaitos pakartojimas\Pirmos paskaitos pakartojimas\obj\Debug\net5.0\Pirmos paskaitos pakartojimas.csproj.CoreCompileInputs.cache
+C:\Users\Zygimantas\source\repos\Pirmos paskaitos pakartojimas\Pirmos paskaitos pakartojimas\obj\Debug\net5.0\Pirmos paskaitos pakartojimas.dll
+C:\Users\Zygimantas\source\repos\Pirmos paskaitos pakartojimas\Pirmos paskaitos pakartojimas\obj\Debug\net5.0\ref\Pirmos paskaitos pakartojimas.dll
+C:\Users\Zygimantas\source\repos\Pirmos paskaitos pakartojimas\Pirmos paskaitos pakartojimas\obj\Debug\net5.0\Pirmos paskaitos pakartojimas.pdb
+C:\Users\Zygimantas\source\repos\Pirmos paskaitos pakartojimas\Pirmos paskaitos pakartojimas\obj\Debug\net5.0\Pirmos paskaitos pakartojimas.genruntimeconfig.cache

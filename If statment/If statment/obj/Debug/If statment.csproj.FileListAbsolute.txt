@@ -1,0 +1,7 @@
+C:\Users\Zygimantas\source\repos\If statment\If statment\bin\Debug\If statment.exe.config
+C:\Users\Zygimantas\source\repos\If statment\If statment\bin\Debug\If statment.exe
+C:\Users\Zygimantas\source\repos\If statment\If statment\bin\Debug\If statment.pdb
+C:\Users\Zygimantas\source\repos\If statment\If statment\obj\Debug\If statment.csproj.AssemblyReference.cache
+C:\Users\Zygimantas\source\repos\If statment\If statment\obj\Debug\If statment.csproj.CoreCompileInputs.cache
+C:\Users\Zygimantas\source\repos\If statment\If statment\obj\Debug\If statment.exe
+C:\Users\Zygimantas\source\repos\If statment\If statment\obj\Debug\If statment.pdb

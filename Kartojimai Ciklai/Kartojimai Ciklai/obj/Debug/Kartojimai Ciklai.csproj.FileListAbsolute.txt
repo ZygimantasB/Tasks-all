@@ -1,0 +1,7 @@
+C:\Users\Zygimantas\source\repos\Kartojimai Ciklai\Kartojimai Ciklai\bin\Debug\Kartojimai Ciklai.exe.config
+C:\Users\Zygimantas\source\repos\Kartojimai Ciklai\Kartojimai Ciklai\bin\Debug\Kartojimai Ciklai.exe
+C:\Users\Zygimantas\source\repos\Kartojimai Ciklai\Kartojimai Ciklai\bin\Debug\Kartojimai Ciklai.pdb
+C:\Users\Zygimantas\source\repos\Kartojimai Ciklai\Kartojimai Ciklai\obj\Debug\Kartojimai Ciklai.csproj.AssemblyReference.cache
+C:\Users\Zygimantas\source\repos\Kartojimai Ciklai\Kartojimai Ciklai\obj\Debug\Kartojimai Ciklai.csproj.CoreCompileInputs.cache
+C:\Users\Zygimantas\source\repos\Kartojimai Ciklai\Kartojimai Ciklai\obj\Debug\Kartojimai Ciklai.exe
+C:\Users\Zygimantas\source\repos\Kartojimai Ciklai\Kartojimai Ciklai\obj\Debug\Kartojimai Ciklai.pdb

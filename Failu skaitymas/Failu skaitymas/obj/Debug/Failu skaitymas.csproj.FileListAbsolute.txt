@@ -1,0 +1,7 @@
+C:\Users\Zygimantas\source\repos\Failu skaitymas\Failu skaitymas\bin\Debug\Failu skaitymas.exe.config
+C:\Users\Zygimantas\source\repos\Failu skaitymas\Failu skaitymas\bin\Debug\Failu skaitymas.exe
+C:\Users\Zygimantas\source\repos\Failu skaitymas\Failu skaitymas\bin\Debug\Failu skaitymas.pdb
+C:\Users\Zygimantas\source\repos\Failu skaitymas\Failu skaitymas\obj\Debug\Failu skaitymas.csproj.AssemblyReference.cache
+C:\Users\Zygimantas\source\repos\Failu skaitymas\Failu skaitymas\obj\Debug\Failu skaitymas.csproj.CoreCompileInputs.cache
+C:\Users\Zygimantas\source\repos\Failu skaitymas\Failu skaitymas\obj\Debug\Failu skaitymas.exe
+C:\Users\Zygimantas\source\repos\Failu skaitymas\Failu skaitymas\obj\Debug\Failu skaitymas.pdb

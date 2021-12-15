@@ -1,0 +1,6 @@
+C:\Users\Zygimantas\source\repos\Pakartotinis visu uzduociu atlikimas\Vardo pavardes ir gimimo vietos atspausdinimas\bin\Debug\Vardo pavardes ir gimimo vietos atspausdinimas.exe.config
+C:\Users\Zygimantas\source\repos\Pakartotinis visu uzduociu atlikimas\Vardo pavardes ir gimimo vietos atspausdinimas\bin\Debug\Vardo pavardes ir gimimo vietos atspausdinimas.exe
+C:\Users\Zygimantas\source\repos\Pakartotinis visu uzduociu atlikimas\Vardo pavardes ir gimimo vietos atspausdinimas\bin\Debug\Vardo pavardes ir gimimo vietos atspausdinimas.pdb
+C:\Users\Zygimantas\source\repos\Pakartotinis visu uzduociu atlikimas\Vardo pavardes ir gimimo vietos atspausdinimas\obj\Debug\Vardo pavardes ir gimimo vietos atspausdinimas.csproj.CoreCompileInputs.cache
+C:\Users\Zygimantas\source\repos\Pakartotinis visu uzduociu atlikimas\Vardo pavardes ir gimimo vietos atspausdinimas\obj\Debug\Vardo pavardes ir gimimo vietos atspausdinimas.exe
+C:\Users\Zygimantas\source\repos\Pakartotinis visu uzduociu atlikimas\Vardo pavardes ir gimimo vietos atspausdinimas\obj\Debug\Vardo pavardes ir gimimo vietos atspausdinimas.pdb

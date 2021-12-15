@@ -1,0 +1,6 @@
+C:\Users\Zygimantas\source\repos\Pakartotinis visu uzduociu atlikimas\Uzduotis snipas\bin\Debug\Uzduotis snipas.exe.config
+C:\Users\Zygimantas\source\repos\Pakartotinis visu uzduociu atlikimas\Uzduotis snipas\bin\Debug\Uzduotis snipas.exe
+C:\Users\Zygimantas\source\repos\Pakartotinis visu uzduociu atlikimas\Uzduotis snipas\bin\Debug\Uzduotis snipas.pdb
+C:\Users\Zygimantas\source\repos\Pakartotinis visu uzduociu atlikimas\Uzduotis snipas\obj\Debug\Uzduotis snipas.csproj.CoreCompileInputs.cache
+C:\Users\Zygimantas\source\repos\Pakartotinis visu uzduociu atlikimas\Uzduotis snipas\obj\Debug\Uzduotis snipas.exe
+C:\Users\Zygimantas\source\repos\Pakartotinis visu uzduociu atlikimas\Uzduotis snipas\obj\Debug\Uzduotis snipas.pdb

@@ -1,0 +1,2 @@
+C:\Users\Zygimantas\source\repos\Snipas\Snipas\obj\Debug\Snipas.csproj.AssemblyReference.cache
+C:\Users\Zygimantas\source\repos\Snipas\Snipas\obj\Debug\Snipas.csproj.CoreCompileInputs.cache

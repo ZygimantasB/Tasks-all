@@ -1,0 +1,7 @@
+C:\Users\Zygimantas\source\repos\Pakartotinis visu uzduociu atlikimas\KM val to M per S\bin\Debug\KM val to M per S.exe.config
+C:\Users\Zygimantas\source\repos\Pakartotinis visu uzduociu atlikimas\KM val to M per S\bin\Debug\KM val to M per S.exe
+C:\Users\Zygimantas\source\repos\Pakartotinis visu uzduociu atlikimas\KM val to M per S\bin\Debug\KM val to M per S.pdb
+C:\Users\Zygimantas\source\repos\Pakartotinis visu uzduociu atlikimas\KM val to M per S\obj\Debug\KM val to M per S.csproj.CoreCompileInputs.cache
+C:\Users\Zygimantas\source\repos\Pakartotinis visu uzduociu atlikimas\KM val to M per S\obj\Debug\KM val to M per S.exe
+C:\Users\Zygimantas\source\repos\Pakartotinis visu uzduociu atlikimas\KM val to M per S\obj\Debug\KM val to M per S.pdb
+C:\Users\Zygimantas\source\repos\Pakartotinis visu uzduociu atlikimas\KM val to M per S\obj\Debug\KM val to M per S.csproj.AssemblyReference.cache

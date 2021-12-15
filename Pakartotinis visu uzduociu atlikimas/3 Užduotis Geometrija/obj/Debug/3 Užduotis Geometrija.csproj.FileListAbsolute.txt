@@ -1,0 +1,7 @@
+C:\Users\Zygimantas\source\repos\Pakartotinis visu uzduociu atlikimas\3 Užduotis Geometrija\bin\Debug\3 Užduotis Geometrija.exe.config
+C:\Users\Zygimantas\source\repos\Pakartotinis visu uzduociu atlikimas\3 Užduotis Geometrija\bin\Debug\3 Užduotis Geometrija.exe
+C:\Users\Zygimantas\source\repos\Pakartotinis visu uzduociu atlikimas\3 Užduotis Geometrija\bin\Debug\3 Užduotis Geometrija.pdb
+C:\Users\Zygimantas\source\repos\Pakartotinis visu uzduociu atlikimas\3 Užduotis Geometrija\obj\Debug\3 Užduotis Geometrija.csproj.AssemblyReference.cache
+C:\Users\Zygimantas\source\repos\Pakartotinis visu uzduociu atlikimas\3 Užduotis Geometrija\obj\Debug\3 Užduotis Geometrija.csproj.CoreCompileInputs.cache
+C:\Users\Zygimantas\source\repos\Pakartotinis visu uzduociu atlikimas\3 Užduotis Geometrija\obj\Debug\3 Užduotis Geometrija.exe
+C:\Users\Zygimantas\source\repos\Pakartotinis visu uzduociu atlikimas\3 Užduotis Geometrija\obj\Debug\3 Užduotis Geometrija.pdb

@@ -1,0 +1,7 @@
+C:\Users\Zygimantas\source\repos\Pakartotinis visu uzduociu atlikimas\2 Užduotis Metematika\bin\Debug\2 Užduotis Metematika.exe.config
+C:\Users\Zygimantas\source\repos\Pakartotinis visu uzduociu atlikimas\2 Užduotis Metematika\bin\Debug\2 Užduotis Metematika.exe
+C:\Users\Zygimantas\source\repos\Pakartotinis visu uzduociu atlikimas\2 Užduotis Metematika\bin\Debug\2 Užduotis Metematika.pdb
+C:\Users\Zygimantas\source\repos\Pakartotinis visu uzduociu atlikimas\2 Užduotis Metematika\obj\Debug\2 Užduotis Metematika.csproj.AssemblyReference.cache
+C:\Users\Zygimantas\source\repos\Pakartotinis visu uzduociu atlikimas\2 Užduotis Metematika\obj\Debug\2 Užduotis Metematika.csproj.CoreCompileInputs.cache
+C:\Users\Zygimantas\source\repos\Pakartotinis visu uzduociu atlikimas\2 Užduotis Metematika\obj\Debug\2 Užduotis Metematika.exe
+C:\Users\Zygimantas\source\repos\Pakartotinis visu uzduociu atlikimas\2 Užduotis Metematika\obj\Debug\2 Užduotis Metematika.pdb

@@ -1,0 +1,7 @@
+C:\Users\Zygimantas\source\repos\Uzdaviniai\Uzdaviniai\bin\Debug\Uzdaviniai.exe.config
+C:\Users\Zygimantas\source\repos\Uzdaviniai\Uzdaviniai\bin\Debug\Uzdaviniai.exe
+C:\Users\Zygimantas\source\repos\Uzdaviniai\Uzdaviniai\bin\Debug\Uzdaviniai.pdb
+C:\Users\Zygimantas\source\repos\Uzdaviniai\Uzdaviniai\obj\Debug\Uzdaviniai.csproj.AssemblyReference.cache
+C:\Users\Zygimantas\source\repos\Uzdaviniai\Uzdaviniai\obj\Debug\Uzdaviniai.csproj.CoreCompileInputs.cache
+C:\Users\Zygimantas\source\repos\Uzdaviniai\Uzdaviniai\obj\Debug\Uzdaviniai.exe
+C:\Users\Zygimantas\source\repos\Uzdaviniai\Uzdaviniai\obj\Debug\Uzdaviniai.pdb

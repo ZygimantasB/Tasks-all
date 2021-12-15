@@ -1,0 +1,7 @@
+C:\Users\Zygimantas\source\repos\Snipas dar vienas bandymas\Snipas dar vienas bandymas\bin\Debug\Snipas dar vienas bandymas.exe.config
+C:\Users\Zygimantas\source\repos\Snipas dar vienas bandymas\Snipas dar vienas bandymas\bin\Debug\Snipas dar vienas bandymas.exe
+C:\Users\Zygimantas\source\repos\Snipas dar vienas bandymas\Snipas dar vienas bandymas\bin\Debug\Snipas dar vienas bandymas.pdb
+C:\Users\Zygimantas\source\repos\Snipas dar vienas bandymas\Snipas dar vienas bandymas\obj\Debug\Snipas dar vienas bandymas.csproj.AssemblyReference.cache
+C:\Users\Zygimantas\source\repos\Snipas dar vienas bandymas\Snipas dar vienas bandymas\obj\Debug\Snipas dar vienas bandymas.csproj.CoreCompileInputs.cache
+C:\Users\Zygimantas\source\repos\Snipas dar vienas bandymas\Snipas dar vienas bandymas\obj\Debug\Snipas dar vienas bandymas.exe
+C:\Users\Zygimantas\source\repos\Snipas dar vienas bandymas\Snipas dar vienas bandymas\obj\Debug\Snipas dar vienas bandymas.pdb

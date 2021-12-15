@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31702.278
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "3B Uzduotis Geometrija", "3B Uzduotis Geometrija\3B Uzduotis Geometrija.csproj", "{FA0CBE7D-D0CC-49E1-B3F5-32E6C12CB1E3}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{FA0CBE7D-D0CC-49E1-B3F5-32E6C12CB1E3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FA0CBE7D-D0CC-49E1-B3F5-32E6C12CB1E3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FA0CBE7D-D0CC-49E1-B3F5-32E6C12CB1E3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FA0CBE7D-D0CC-49E1-B3F5-32E6C12CB1E3}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {8DC338BE-4418-48F0-A01A-346D5576B127}
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,7 @@
+C:\Users\Zygimantas\source\repos\3 skaiciai\3 skaiciai\bin\Debug\3 skaiciai.exe.config
+C:\Users\Zygimantas\source\repos\3 skaiciai\3 skaiciai\bin\Debug\3 skaiciai.exe
+C:\Users\Zygimantas\source\repos\3 skaiciai\3 skaiciai\bin\Debug\3 skaiciai.pdb
+C:\Users\Zygimantas\source\repos\3 skaiciai\3 skaiciai\obj\Debug\3 skaiciai.csproj.AssemblyReference.cache
+C:\Users\Zygimantas\source\repos\3 skaiciai\3 skaiciai\obj\Debug\3 skaiciai.csproj.CoreCompileInputs.cache
+C:\Users\Zygimantas\source\repos\3 skaiciai\3 skaiciai\obj\Debug\3 skaiciai.exe
+C:\Users\Zygimantas\source\repos\3 skaiciai\3 skaiciai\obj\Debug\3 skaiciai.pdb

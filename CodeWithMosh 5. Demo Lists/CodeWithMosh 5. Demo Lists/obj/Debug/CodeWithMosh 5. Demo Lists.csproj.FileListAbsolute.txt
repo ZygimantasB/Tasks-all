@@ -1,0 +1,7 @@
+C:\Users\Zygimantas\source\repos\CodeWithMosh 5. Demo Lists\CodeWithMosh 5. Demo Lists\bin\Debug\CodeWithMosh_5.Demo_Lists.exe.config
+C:\Users\Zygimantas\source\repos\CodeWithMosh 5. Demo Lists\CodeWithMosh 5. Demo Lists\bin\Debug\CodeWithMosh_5.Demo_Lists.exe
+C:\Users\Zygimantas\source\repos\CodeWithMosh 5. Demo Lists\CodeWithMosh 5. Demo Lists\bin\Debug\CodeWithMosh_5.Demo_Lists.pdb
+C:\Users\Zygimantas\source\repos\CodeWithMosh 5. Demo Lists\CodeWithMosh 5. Demo Lists\obj\Debug\CodeWithMosh 5. Demo Lists.csproj.AssemblyReference.cache
+C:\Users\Zygimantas\source\repos\CodeWithMosh 5. Demo Lists\CodeWithMosh 5. Demo Lists\obj\Debug\CodeWithMosh 5. Demo Lists.csproj.CoreCompileInputs.cache
+C:\Users\Zygimantas\source\repos\CodeWithMosh 5. Demo Lists\CodeWithMosh 5. Demo Lists\obj\Debug\CodeWithMosh_5.Demo_Lists.exe
+C:\Users\Zygimantas\source\repos\CodeWithMosh 5. Demo Lists\CodeWithMosh 5. Demo Lists\obj\Debug\CodeWithMosh_5.Demo_Lists.pdb

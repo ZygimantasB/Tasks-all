@@ -1,0 +1,7 @@
+C:\Users\Zygimantas\source\repos\Pakartotinis visu uzduociu atlikimas\Papildoma uzduotis 3\bin\Debug\Papildoma uzduotis 3.exe.config
+C:\Users\Zygimantas\source\repos\Pakartotinis visu uzduociu atlikimas\Papildoma uzduotis 3\bin\Debug\Papildoma uzduotis 3.exe
+C:\Users\Zygimantas\source\repos\Pakartotinis visu uzduociu atlikimas\Papildoma uzduotis 3\bin\Debug\Papildoma uzduotis 3.pdb
+C:\Users\Zygimantas\source\repos\Pakartotinis visu uzduociu atlikimas\Papildoma uzduotis 3\obj\Debug\Papildoma uzduotis 3.csproj.CoreCompileInputs.cache
+C:\Users\Zygimantas\source\repos\Pakartotinis visu uzduociu atlikimas\Papildoma uzduotis 3\obj\Debug\Papildoma uzduotis 3.exe
+C:\Users\Zygimantas\source\repos\Pakartotinis visu uzduociu atlikimas\Papildoma uzduotis 3\obj\Debug\Papildoma uzduotis 3.pdb
+C:\Users\Zygimantas\source\repos\Pakartotinis visu uzduociu atlikimas\Papildoma uzduotis 3\obj\Debug\Papildoma uzduotis 3.csproj.AssemblyReference.cache

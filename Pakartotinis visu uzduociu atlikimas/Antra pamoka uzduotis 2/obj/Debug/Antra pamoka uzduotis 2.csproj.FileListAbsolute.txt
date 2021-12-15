@@ -1,0 +1,6 @@
+C:\Users\Zygimantas\source\repos\Pakartotinis visu uzduociu atlikimas\Antra pamoka uzduotis 2\bin\Debug\Antra pamoka uzduotis 2.exe.config
+C:\Users\Zygimantas\source\repos\Pakartotinis visu uzduociu atlikimas\Antra pamoka uzduotis 2\bin\Debug\Antra pamoka uzduotis 2.exe
+C:\Users\Zygimantas\source\repos\Pakartotinis visu uzduociu atlikimas\Antra pamoka uzduotis 2\bin\Debug\Antra pamoka uzduotis 2.pdb
+C:\Users\Zygimantas\source\repos\Pakartotinis visu uzduociu atlikimas\Antra pamoka uzduotis 2\obj\Debug\Antra pamoka uzduotis 2.csproj.CoreCompileInputs.cache
+C:\Users\Zygimantas\source\repos\Pakartotinis visu uzduociu atlikimas\Antra pamoka uzduotis 2\obj\Debug\Antra pamoka uzduotis 2.exe
+C:\Users\Zygimantas\source\repos\Pakartotinis visu uzduociu atlikimas\Antra pamoka uzduotis 2\obj\Debug\Antra pamoka uzduotis 2.pdb

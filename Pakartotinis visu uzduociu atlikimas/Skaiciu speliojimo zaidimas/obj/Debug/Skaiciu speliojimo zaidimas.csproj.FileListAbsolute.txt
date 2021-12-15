@@ -1,0 +1,6 @@
+C:\Users\Zygimantas\source\repos\Pakartotinis visu uzduociu atlikimas\Skaiciu speliojimo zaidimas\bin\Debug\Skaiciu speliojimo zaidimas.exe.config
+C:\Users\Zygimantas\source\repos\Pakartotinis visu uzduociu atlikimas\Skaiciu speliojimo zaidimas\bin\Debug\Skaiciu speliojimo zaidimas.exe
+C:\Users\Zygimantas\source\repos\Pakartotinis visu uzduociu atlikimas\Skaiciu speliojimo zaidimas\bin\Debug\Skaiciu speliojimo zaidimas.pdb
+C:\Users\Zygimantas\source\repos\Pakartotinis visu uzduociu atlikimas\Skaiciu speliojimo zaidimas\obj\Debug\Skaiciu speliojimo zaidimas.csproj.CoreCompileInputs.cache
+C:\Users\Zygimantas\source\repos\Pakartotinis visu uzduociu atlikimas\Skaiciu speliojimo zaidimas\obj\Debug\Skaiciu speliojimo zaidimas.exe
+C:\Users\Zygimantas\source\repos\Pakartotinis visu uzduociu atlikimas\Skaiciu speliojimo zaidimas\obj\Debug\Skaiciu speliojimo zaidimas.pdb

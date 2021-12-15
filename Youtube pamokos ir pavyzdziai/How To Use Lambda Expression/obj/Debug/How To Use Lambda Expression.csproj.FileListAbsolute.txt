@@ -1,0 +1,7 @@
+C:\Users\Zygimantas\source\repos\Youtube pamokos ir pavyzdziai\How To Use Lambda Expression\bin\Debug\How To Use Lambda Expression.exe.config
+C:\Users\Zygimantas\source\repos\Youtube pamokos ir pavyzdziai\How To Use Lambda Expression\bin\Debug\How To Use Lambda Expression.exe
+C:\Users\Zygimantas\source\repos\Youtube pamokos ir pavyzdziai\How To Use Lambda Expression\bin\Debug\How To Use Lambda Expression.pdb
+C:\Users\Zygimantas\source\repos\Youtube pamokos ir pavyzdziai\How To Use Lambda Expression\obj\Debug\How To Use Lambda Expression.csproj.AssemblyReference.cache
+C:\Users\Zygimantas\source\repos\Youtube pamokos ir pavyzdziai\How To Use Lambda Expression\obj\Debug\How To Use Lambda Expression.csproj.CoreCompileInputs.cache
+C:\Users\Zygimantas\source\repos\Youtube pamokos ir pavyzdziai\How To Use Lambda Expression\obj\Debug\How To Use Lambda Expression.exe
+C:\Users\Zygimantas\source\repos\Youtube pamokos ir pavyzdziai\How To Use Lambda Expression\obj\Debug\How To Use Lambda Expression.pdb

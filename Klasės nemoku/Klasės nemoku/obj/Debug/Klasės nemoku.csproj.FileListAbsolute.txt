@@ -1,0 +1,7 @@
+C:\Users\Zygimantas\source\repos\Klasės nemoku\Klasės nemoku\bin\Debug\Klasės nemoku.exe.config
+C:\Users\Zygimantas\source\repos\Klasės nemoku\Klasės nemoku\bin\Debug\Klasės nemoku.exe
+C:\Users\Zygimantas\source\repos\Klasės nemoku\Klasės nemoku\bin\Debug\Klasės nemoku.pdb
+C:\Users\Zygimantas\source\repos\Klasės nemoku\Klasės nemoku\obj\Debug\Klasės nemoku.csproj.AssemblyReference.cache
+C:\Users\Zygimantas\source\repos\Klasės nemoku\Klasės nemoku\obj\Debug\Klasės nemoku.csproj.CoreCompileInputs.cache
+C:\Users\Zygimantas\source\repos\Klasės nemoku\Klasės nemoku\obj\Debug\Klasės nemoku.exe
+C:\Users\Zygimantas\source\repos\Klasės nemoku\Klasės nemoku\obj\Debug\Klasės nemoku.pdb

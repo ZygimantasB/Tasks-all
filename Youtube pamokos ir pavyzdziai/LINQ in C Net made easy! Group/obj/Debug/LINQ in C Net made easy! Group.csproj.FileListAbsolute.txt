@@ -1,0 +1,6 @@
+C:\Users\Zygimantas\source\repos\Youtube pamokos ir pavyzdziai\LINQ in C Net made easy! Group\bin\Debug\LINQ in C Net made easy! Group.exe.config
+C:\Users\Zygimantas\source\repos\Youtube pamokos ir pavyzdziai\LINQ in C Net made easy! Group\bin\Debug\LINQ in C Net made easy! Group.exe
+C:\Users\Zygimantas\source\repos\Youtube pamokos ir pavyzdziai\LINQ in C Net made easy! Group\bin\Debug\LINQ in C Net made easy! Group.pdb
+C:\Users\Zygimantas\source\repos\Youtube pamokos ir pavyzdziai\LINQ in C Net made easy! Group\obj\Debug\LINQ in C Net made easy! Group.csproj.CoreCompileInputs.cache
+C:\Users\Zygimantas\source\repos\Youtube pamokos ir pavyzdziai\LINQ in C Net made easy! Group\obj\Debug\LINQ in C Net made easy! Group.exe
+C:\Users\Zygimantas\source\repos\Youtube pamokos ir pavyzdziai\LINQ in C Net made easy! Group\obj\Debug\LINQ in C Net made easy! Group.pdb

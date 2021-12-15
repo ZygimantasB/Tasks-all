@@ -1,0 +1,7 @@
+C:\Users\Zygimantas\source\repos\w3resource File Handling\Uzduotis 5 pakartojimas\bin\Debug\Uzduotis 5 pakartojimas.exe.config
+C:\Users\Zygimantas\source\repos\w3resource File Handling\Uzduotis 5 pakartojimas\bin\Debug\Uzduotis 5 pakartojimas.exe
+C:\Users\Zygimantas\source\repos\w3resource File Handling\Uzduotis 5 pakartojimas\bin\Debug\Uzduotis 5 pakartojimas.pdb
+C:\Users\Zygimantas\source\repos\w3resource File Handling\Uzduotis 5 pakartojimas\obj\Debug\Uzduotis 5 pakartojimas.csproj.AssemblyReference.cache
+C:\Users\Zygimantas\source\repos\w3resource File Handling\Uzduotis 5 pakartojimas\obj\Debug\Uzduotis 5 pakartojimas.csproj.CoreCompileInputs.cache
+C:\Users\Zygimantas\source\repos\w3resource File Handling\Uzduotis 5 pakartojimas\obj\Debug\Uzduotis 5 pakartojimas.exe
+C:\Users\Zygimantas\source\repos\w3resource File Handling\Uzduotis 5 pakartojimas\obj\Debug\Uzduotis 5 pakartojimas.pdb

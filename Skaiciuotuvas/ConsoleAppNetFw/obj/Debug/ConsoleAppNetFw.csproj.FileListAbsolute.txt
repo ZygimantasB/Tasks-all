@@ -1,0 +1,7 @@
+C:\Users\T0755\source\repos\ConsoleAppNetFw\ConsoleAppNetFw\bin\Debug\ConsoleAppNetFw.exe.config
+C:\Users\T0755\source\repos\ConsoleAppNetFw\ConsoleAppNetFw\bin\Debug\ConsoleAppNetFw.exe
+C:\Users\T0755\source\repos\ConsoleAppNetFw\ConsoleAppNetFw\bin\Debug\ConsoleAppNetFw.pdb
+C:\Users\T0755\source\repos\ConsoleAppNetFw\ConsoleAppNetFw\obj\Debug\ConsoleAppNetFw.csproj.AssemblyReference.cache
+C:\Users\T0755\source\repos\ConsoleAppNetFw\ConsoleAppNetFw\obj\Debug\ConsoleAppNetFw.csproj.CoreCompileInputs.cache
+C:\Users\T0755\source\repos\ConsoleAppNetFw\ConsoleAppNetFw\obj\Debug\ConsoleAppNetFw.exe
+C:\Users\T0755\source\repos\ConsoleAppNetFw\ConsoleAppNetFw\obj\Debug\ConsoleAppNetFw.pdb

@@ -1,0 +1,7 @@
+C:\Users\Zygimantas\source\repos\Trečia papidloma užduotis\Trečia papidloma užduotis\bin\Debug\Trečia papidloma užduotis.exe.config
+C:\Users\Zygimantas\source\repos\Trečia papidloma užduotis\Trečia papidloma užduotis\bin\Debug\Trečia papidloma užduotis.exe
+C:\Users\Zygimantas\source\repos\Trečia papidloma užduotis\Trečia papidloma užduotis\bin\Debug\Trečia papidloma užduotis.pdb
+C:\Users\Zygimantas\source\repos\Trečia papidloma užduotis\Trečia papidloma užduotis\obj\Debug\Trečia papidloma užduotis.csproj.AssemblyReference.cache
+C:\Users\Zygimantas\source\repos\Trečia papidloma užduotis\Trečia papidloma užduotis\obj\Debug\Trečia papidloma užduotis.csproj.CoreCompileInputs.cache
+C:\Users\Zygimantas\source\repos\Trečia papidloma užduotis\Trečia papidloma užduotis\obj\Debug\Trečia papidloma užduotis.exe
+C:\Users\Zygimantas\source\repos\Trečia papidloma užduotis\Trečia papidloma užduotis\obj\Debug\Trečia papidloma užduotis.pdb

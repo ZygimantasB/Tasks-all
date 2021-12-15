@@ -1,0 +1,7 @@
+C:\Users\Zygimantas\source\repos\Ketvirta papildoma užduotis\Ketvirta papildoma užduotis\bin\Debug\Ketvirta papildoma užduotis.exe.config
+C:\Users\Zygimantas\source\repos\Ketvirta papildoma užduotis\Ketvirta papildoma užduotis\bin\Debug\Ketvirta papildoma užduotis.exe
+C:\Users\Zygimantas\source\repos\Ketvirta papildoma užduotis\Ketvirta papildoma užduotis\bin\Debug\Ketvirta papildoma užduotis.pdb
+C:\Users\Zygimantas\source\repos\Ketvirta papildoma užduotis\Ketvirta papildoma užduotis\obj\Debug\Ketvirta papildoma užduotis.csproj.AssemblyReference.cache
+C:\Users\Zygimantas\source\repos\Ketvirta papildoma užduotis\Ketvirta papildoma užduotis\obj\Debug\Ketvirta papildoma užduotis.csproj.CoreCompileInputs.cache
+C:\Users\Zygimantas\source\repos\Ketvirta papildoma užduotis\Ketvirta papildoma užduotis\obj\Debug\Ketvirta papildoma užduotis.exe
+C:\Users\Zygimantas\source\repos\Ketvirta papildoma užduotis\Ketvirta papildoma užduotis\obj\Debug\Ketvirta papildoma užduotis.pdb

@@ -1,0 +1,7 @@
+C:\Users\Zygimantas\source\repos\Pakartotinis visu uzduociu atlikimas\Skaiciuotuvas eksperimentas\bin\Debug\Skaiciuotuvas eksperimentas.exe.config
+C:\Users\Zygimantas\source\repos\Pakartotinis visu uzduociu atlikimas\Skaiciuotuvas eksperimentas\bin\Debug\Skaiciuotuvas eksperimentas.exe
+C:\Users\Zygimantas\source\repos\Pakartotinis visu uzduociu atlikimas\Skaiciuotuvas eksperimentas\bin\Debug\Skaiciuotuvas eksperimentas.pdb
+C:\Users\Zygimantas\source\repos\Pakartotinis visu uzduociu atlikimas\Skaiciuotuvas eksperimentas\obj\Debug\Skaiciuotuvas eksperimentas.csproj.CoreCompileInputs.cache
+C:\Users\Zygimantas\source\repos\Pakartotinis visu uzduociu atlikimas\Skaiciuotuvas eksperimentas\obj\Debug\Skaiciuotuvas eksperimentas.exe
+C:\Users\Zygimantas\source\repos\Pakartotinis visu uzduociu atlikimas\Skaiciuotuvas eksperimentas\obj\Debug\Skaiciuotuvas eksperimentas.pdb
+C:\Users\Zygimantas\source\repos\Pakartotinis visu uzduociu atlikimas\Skaiciuotuvas eksperimentas\obj\Debug\Skaiciuotuvas eksperimentas.csproj.AssemblyReference.cache

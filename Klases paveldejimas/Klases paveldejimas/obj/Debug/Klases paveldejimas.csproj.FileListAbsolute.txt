@@ -1,0 +1,9 @@
+C:\Users\Zygimantas\source\repos\Klases paveldejimas\Klases paveldejimas\bin\Debug\Klases paveldejimas.exe.config
+C:\Users\Zygimantas\source\repos\Klases paveldejimas\Klases paveldejimas\bin\Debug\Klases paveldejimas.exe
+C:\Users\Zygimantas\source\repos\Klases paveldejimas\Klases paveldejimas\bin\Debug\Klases paveldejimas.pdb
+C:\Users\Zygimantas\source\repos\Klases paveldejimas\Klases paveldejimas\obj\Debug\Klases paveldejimas.csproj.AssemblyReference.cache
+C:\Users\Zygimantas\source\repos\Klases paveldejimas\Klases paveldejimas\obj\Debug\Klases paveldejimas.csproj.CoreCompileInputs.cache
+C:\Users\Zygimantas\source\repos\Klases paveldejimas\Klases paveldejimas\obj\Debug\Klases paveldejimas.exe
+C:\Users\Zygimantas\source\repos\Klases paveldejimas\Klases paveldejimas\obj\Debug\Klases paveldejimas.pdb
+C:\Users\Zygimantas\source\repos\Klases paveldejimas\Klases paveldejimas\obj\Debug\Klases_paveldejimas.Klases_pavaeldejimas.resources
+C:\Users\Zygimantas\source\repos\Klases paveldejimas\Klases paveldejimas\obj\Debug\Klases paveldejimas.csproj.GenerateResource.cache

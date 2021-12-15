@@ -1,0 +1,6 @@
+C:\Users\Zygimantas\source\repos\Pakartotinis visu uzduociu atlikimas\Uzuodtis su if salygomis\bin\Debug\Uzuodtis su if salygomis.exe.config
+C:\Users\Zygimantas\source\repos\Pakartotinis visu uzduociu atlikimas\Uzuodtis su if salygomis\bin\Debug\Uzuodtis su if salygomis.exe
+C:\Users\Zygimantas\source\repos\Pakartotinis visu uzduociu atlikimas\Uzuodtis su if salygomis\bin\Debug\Uzuodtis su if salygomis.pdb
+C:\Users\Zygimantas\source\repos\Pakartotinis visu uzduociu atlikimas\Uzuodtis su if salygomis\obj\Debug\Uzuodtis su if salygomis.csproj.CoreCompileInputs.cache
+C:\Users\Zygimantas\source\repos\Pakartotinis visu uzduociu atlikimas\Uzuodtis su if salygomis\obj\Debug\Uzuodtis su if salygomis.exe
+C:\Users\Zygimantas\source\repos\Pakartotinis visu uzduociu atlikimas\Uzuodtis su if salygomis\obj\Debug\Uzuodtis su if salygomis.pdb

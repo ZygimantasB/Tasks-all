@@ -1,0 +1,7 @@
+C:\Users\Zygimantas\source\repos\Ciklai\Ciklai\bin\Debug\Ciklai.exe.config
+C:\Users\Zygimantas\source\repos\Ciklai\Ciklai\bin\Debug\Ciklai.exe
+C:\Users\Zygimantas\source\repos\Ciklai\Ciklai\bin\Debug\Ciklai.pdb
+C:\Users\Zygimantas\source\repos\Ciklai\Ciklai\obj\Debug\Ciklai.csproj.AssemblyReference.cache
+C:\Users\Zygimantas\source\repos\Ciklai\Ciklai\obj\Debug\Ciklai.csproj.CoreCompileInputs.cache
+C:\Users\Zygimantas\source\repos\Ciklai\Ciklai\obj\Debug\Ciklai.exe
+C:\Users\Zygimantas\source\repos\Ciklai\Ciklai\obj\Debug\Ciklai.pdb

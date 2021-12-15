@@ -1,0 +1,6 @@
+C:\Users\Zygimantas\source\repos\Pakartotinis visu uzduociu atlikimas\Uzduotis 1 skaicius daugiau uz kita skaiciu\bin\Debug\Uzduotis 1 skaicius daugiau uz kita skaiciu.exe.config
+C:\Users\Zygimantas\source\repos\Pakartotinis visu uzduociu atlikimas\Uzduotis 1 skaicius daugiau uz kita skaiciu\bin\Debug\Uzduotis 1 skaicius daugiau uz kita skaiciu.exe
+C:\Users\Zygimantas\source\repos\Pakartotinis visu uzduociu atlikimas\Uzduotis 1 skaicius daugiau uz kita skaiciu\bin\Debug\Uzduotis 1 skaicius daugiau uz kita skaiciu.pdb
+C:\Users\Zygimantas\source\repos\Pakartotinis visu uzduociu atlikimas\Uzduotis 1 skaicius daugiau uz kita skaiciu\obj\Debug\Uzduotis 1 skaicius daugiau uz kita skaiciu.csproj.CoreCompileInputs.cache
+C:\Users\Zygimantas\source\repos\Pakartotinis visu uzduociu atlikimas\Uzduotis 1 skaicius daugiau uz kita skaiciu\obj\Debug\Uzduotis 1 skaicius daugiau uz kita skaiciu.exe
+C:\Users\Zygimantas\source\repos\Pakartotinis visu uzduociu atlikimas\Uzduotis 1 skaicius daugiau uz kita skaiciu\obj\Debug\Uzduotis 1 skaicius daugiau uz kita skaiciu.pdb

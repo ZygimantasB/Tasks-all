@@ -1,0 +1,6 @@
+C:\Users\Zygimantas\source\repos\Pakartotinis visu uzduociu atlikimas\Papildoma uzduotis 4\bin\Debug\Papildoma uzduotis 4.exe.config
+C:\Users\Zygimantas\source\repos\Pakartotinis visu uzduociu atlikimas\Papildoma uzduotis 4\bin\Debug\Papildoma uzduotis 4.exe
+C:\Users\Zygimantas\source\repos\Pakartotinis visu uzduociu atlikimas\Papildoma uzduotis 4\bin\Debug\Papildoma uzduotis 4.pdb
+C:\Users\Zygimantas\source\repos\Pakartotinis visu uzduociu atlikimas\Papildoma uzduotis 4\obj\Debug\Papildoma uzduotis 4.csproj.CoreCompileInputs.cache
+C:\Users\Zygimantas\source\repos\Pakartotinis visu uzduociu atlikimas\Papildoma uzduotis 4\obj\Debug\Papildoma uzduotis 4.exe
+C:\Users\Zygimantas\source\repos\Pakartotinis visu uzduociu atlikimas\Papildoma uzduotis 4\obj\Debug\Papildoma uzduotis 4.pdb

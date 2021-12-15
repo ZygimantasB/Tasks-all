@@ -1,0 +1,16 @@
+C:\Users\Zygimantas\source\repos\CSharpFundamentals\bin\Debug\net5.0\CSharpFundamentals.exe
+C:\Users\Zygimantas\source\repos\CSharpFundamentals\bin\Debug\net5.0\CSharpFundamentals.deps.json
+C:\Users\Zygimantas\source\repos\CSharpFundamentals\bin\Debug\net5.0\CSharpFundamentals.runtimeconfig.json
+C:\Users\Zygimantas\source\repos\CSharpFundamentals\bin\Debug\net5.0\CSharpFundamentals.runtimeconfig.dev.json
+C:\Users\Zygimantas\source\repos\CSharpFundamentals\bin\Debug\net5.0\CSharpFundamentals.dll
+C:\Users\Zygimantas\source\repos\CSharpFundamentals\bin\Debug\net5.0\ref\CSharpFundamentals.dll
+C:\Users\Zygimantas\source\repos\CSharpFundamentals\bin\Debug\net5.0\CSharpFundamentals.pdb
+C:\Users\Zygimantas\source\repos\CSharpFundamentals\obj\Debug\net5.0\CSharpFundamentals.csproj.AssemblyReference.cache
+C:\Users\Zygimantas\source\repos\CSharpFundamentals\obj\Debug\net5.0\CSharpFundamentals.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Zygimantas\source\repos\CSharpFundamentals\obj\Debug\net5.0\CSharpFundamentals.AssemblyInfoInputs.cache
+C:\Users\Zygimantas\source\repos\CSharpFundamentals\obj\Debug\net5.0\CSharpFundamentals.AssemblyInfo.cs
+C:\Users\Zygimantas\source\repos\CSharpFundamentals\obj\Debug\net5.0\CSharpFundamentals.csproj.CoreCompileInputs.cache
+C:\Users\Zygimantas\source\repos\CSharpFundamentals\obj\Debug\net5.0\CSharpFundamentals.dll
+C:\Users\Zygimantas\source\repos\CSharpFundamentals\obj\Debug\net5.0\ref\CSharpFundamentals.dll
+C:\Users\Zygimantas\source\repos\CSharpFundamentals\obj\Debug\net5.0\CSharpFundamentals.pdb
+C:\Users\Zygimantas\source\repos\CSharpFundamentals\obj\Debug\net5.0\CSharpFundamentals.genruntimeconfig.cache

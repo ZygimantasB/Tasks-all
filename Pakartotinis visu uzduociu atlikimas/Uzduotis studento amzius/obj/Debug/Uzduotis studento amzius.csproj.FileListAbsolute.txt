@@ -1,0 +1,7 @@
+C:\Users\Zygimantas\source\repos\Pakartotinis visu uzduociu atlikimas\Uzduotis studento amzius\bin\Debug\Uzduotis studento amzius.exe.config
+C:\Users\Zygimantas\source\repos\Pakartotinis visu uzduociu atlikimas\Uzduotis studento amzius\bin\Debug\Uzduotis studento amzius.exe
+C:\Users\Zygimantas\source\repos\Pakartotinis visu uzduociu atlikimas\Uzduotis studento amzius\bin\Debug\Uzduotis studento amzius.pdb
+C:\Users\Zygimantas\source\repos\Pakartotinis visu uzduociu atlikimas\Uzduotis studento amzius\obj\Debug\Uzduotis studento amzius.csproj.CoreCompileInputs.cache
+C:\Users\Zygimantas\source\repos\Pakartotinis visu uzduociu atlikimas\Uzduotis studento amzius\obj\Debug\Uzduotis studento amzius.exe
+C:\Users\Zygimantas\source\repos\Pakartotinis visu uzduociu atlikimas\Uzduotis studento amzius\obj\Debug\Uzduotis studento amzius.pdb
+C:\Users\Zygimantas\source\repos\Pakartotinis visu uzduociu atlikimas\Uzduotis studento amzius\obj\Debug\Uzduotis studento amzius.csproj.AssemblyReference.cache

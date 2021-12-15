@@ -1,0 +1,7 @@
+C:\Users\Zygimantas\source\repos\Studento amzius\Studento amzius\obj\Debug\Studento amzius.csproj.AssemblyReference.cache
+C:\Users\Zygimantas\source\repos\Studento amzius\Studento amzius\obj\Debug\Studento amzius.csproj.CoreCompileInputs.cache
+C:\Users\Zygimantas\source\repos\Studento amzius\Studento amzius\bin\Debug\Studento amzius.exe.config
+C:\Users\Zygimantas\source\repos\Studento amzius\Studento amzius\bin\Debug\Studento amzius.exe
+C:\Users\Zygimantas\source\repos\Studento amzius\Studento amzius\bin\Debug\Studento amzius.pdb
+C:\Users\Zygimantas\source\repos\Studento amzius\Studento amzius\obj\Debug\Studento amzius.exe
+C:\Users\Zygimantas\source\repos\Studento amzius\Studento amzius\obj\Debug\Studento amzius.pdb

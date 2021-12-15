@@ -1,0 +1,6 @@
+C:\Users\Zygimantas\source\repos\Pakartotinis visu uzduociu atlikimas\While Ciklas\bin\Debug\While Ciklas.exe.config
+C:\Users\Zygimantas\source\repos\Pakartotinis visu uzduociu atlikimas\While Ciklas\bin\Debug\While Ciklas.exe
+C:\Users\Zygimantas\source\repos\Pakartotinis visu uzduociu atlikimas\While Ciklas\bin\Debug\While Ciklas.pdb
+C:\Users\Zygimantas\source\repos\Pakartotinis visu uzduociu atlikimas\While Ciklas\obj\Debug\While Ciklas.csproj.CoreCompileInputs.cache
+C:\Users\Zygimantas\source\repos\Pakartotinis visu uzduociu atlikimas\While Ciklas\obj\Debug\While Ciklas.exe
+C:\Users\Zygimantas\source\repos\Pakartotinis visu uzduociu atlikimas\While Ciklas\obj\Debug\While Ciklas.pdb

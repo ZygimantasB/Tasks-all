@@ -1,0 +1,6 @@
+C:\Users\Zygimantas\source\repos\Pakartotinis visu uzduociu atlikimas\Uzduotis swith salyga\bin\Debug\Uzduotis swith salyga.exe.config
+C:\Users\Zygimantas\source\repos\Pakartotinis visu uzduociu atlikimas\Uzduotis swith salyga\bin\Debug\Uzduotis swith salyga.exe
+C:\Users\Zygimantas\source\repos\Pakartotinis visu uzduociu atlikimas\Uzduotis swith salyga\bin\Debug\Uzduotis swith salyga.pdb
+C:\Users\Zygimantas\source\repos\Pakartotinis visu uzduociu atlikimas\Uzduotis swith salyga\obj\Debug\Uzduotis swith salyga.csproj.CoreCompileInputs.cache
+C:\Users\Zygimantas\source\repos\Pakartotinis visu uzduociu atlikimas\Uzduotis swith salyga\obj\Debug\Uzduotis swith salyga.exe
+C:\Users\Zygimantas\source\repos\Pakartotinis visu uzduociu atlikimas\Uzduotis swith salyga\obj\Debug\Uzduotis swith salyga.pdb

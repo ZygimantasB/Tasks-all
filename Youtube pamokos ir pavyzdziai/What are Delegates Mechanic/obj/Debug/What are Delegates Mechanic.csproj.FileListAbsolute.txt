@@ -1,0 +1,7 @@
+C:\Users\Zygimantas\source\repos\Youtube pamokos ir pavyzdziai\What are Delegates Mechanic\obj\Debug\What are Delegates Mechanic.csproj.AssemblyReference.cache
+C:\Users\Zygimantas\source\repos\Youtube pamokos ir pavyzdziai\What are Delegates Mechanic\obj\Debug\What are Delegates Mechanic.csproj.CoreCompileInputs.cache
+C:\Users\Zygimantas\source\repos\Youtube pamokos ir pavyzdziai\What are Delegates Mechanic\bin\Debug\What are Delegates Mechanic.exe.config
+C:\Users\Zygimantas\source\repos\Youtube pamokos ir pavyzdziai\What are Delegates Mechanic\bin\Debug\What are Delegates Mechanic.exe
+C:\Users\Zygimantas\source\repos\Youtube pamokos ir pavyzdziai\What are Delegates Mechanic\bin\Debug\What are Delegates Mechanic.pdb
+C:\Users\Zygimantas\source\repos\Youtube pamokos ir pavyzdziai\What are Delegates Mechanic\obj\Debug\What are Delegates Mechanic.exe
+C:\Users\Zygimantas\source\repos\Youtube pamokos ir pavyzdziai\What are Delegates Mechanic\obj\Debug\What are Delegates Mechanic.pdb

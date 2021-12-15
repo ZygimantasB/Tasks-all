@@ -1,0 +1,7 @@
+C:\Users\Zygimantas\source\repos\Susikurti visus reikiamus kintamuosius\Susikurti visus reikiamus kintamuosius\bin\Debug\Susikurti visus reikiamus kintamuosius.exe.config
+C:\Users\Zygimantas\source\repos\Susikurti visus reikiamus kintamuosius\Susikurti visus reikiamus kintamuosius\bin\Debug\Susikurti visus reikiamus kintamuosius.exe
+C:\Users\Zygimantas\source\repos\Susikurti visus reikiamus kintamuosius\Susikurti visus reikiamus kintamuosius\bin\Debug\Susikurti visus reikiamus kintamuosius.pdb
+C:\Users\Zygimantas\source\repos\Susikurti visus reikiamus kintamuosius\Susikurti visus reikiamus kintamuosius\obj\Debug\Susikurti visus reikiamus kintamuosius.csproj.AssemblyReference.cache
+C:\Users\Zygimantas\source\repos\Susikurti visus reikiamus kintamuosius\Susikurti visus reikiamus kintamuosius\obj\Debug\Susikurti visus reikiamus kintamuosius.csproj.CoreCompileInputs.cache
+C:\Users\Zygimantas\source\repos\Susikurti visus reikiamus kintamuosius\Susikurti visus reikiamus kintamuosius\obj\Debug\Susikurti visus reikiamus kintamuosius.exe
+C:\Users\Zygimantas\source\repos\Susikurti visus reikiamus kintamuosius\Susikurti visus reikiamus kintamuosius\obj\Debug\Susikurti visus reikiamus kintamuosius.pdb

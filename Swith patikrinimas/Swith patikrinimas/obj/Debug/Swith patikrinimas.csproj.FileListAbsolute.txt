@@ -1,0 +1,7 @@
+C:\Users\Zygimantas\source\repos\Swith patikrinimas\Swith patikrinimas\bin\Debug\Swith patikrinimas.exe.config
+C:\Users\Zygimantas\source\repos\Swith patikrinimas\Swith patikrinimas\bin\Debug\Swith patikrinimas.exe
+C:\Users\Zygimantas\source\repos\Swith patikrinimas\Swith patikrinimas\bin\Debug\Swith patikrinimas.pdb
+C:\Users\Zygimantas\source\repos\Swith patikrinimas\Swith patikrinimas\obj\Debug\Swith patikrinimas.csproj.AssemblyReference.cache
+C:\Users\Zygimantas\source\repos\Swith patikrinimas\Swith patikrinimas\obj\Debug\Swith patikrinimas.csproj.CoreCompileInputs.cache
+C:\Users\Zygimantas\source\repos\Swith patikrinimas\Swith patikrinimas\obj\Debug\Swith patikrinimas.exe
+C:\Users\Zygimantas\source\repos\Swith patikrinimas\Swith patikrinimas\obj\Debug\Swith patikrinimas.pdb

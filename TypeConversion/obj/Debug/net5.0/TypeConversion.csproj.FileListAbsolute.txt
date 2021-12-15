@@ -1,0 +1,16 @@
+C:\Users\Zygimantas\source\repos\TypeConversion\bin\Debug\net5.0\TypeConversion.exe
+C:\Users\Zygimantas\source\repos\TypeConversion\bin\Debug\net5.0\TypeConversion.deps.json
+C:\Users\Zygimantas\source\repos\TypeConversion\bin\Debug\net5.0\TypeConversion.runtimeconfig.json
+C:\Users\Zygimantas\source\repos\TypeConversion\bin\Debug\net5.0\TypeConversion.runtimeconfig.dev.json
+C:\Users\Zygimantas\source\repos\TypeConversion\bin\Debug\net5.0\TypeConversion.dll
+C:\Users\Zygimantas\source\repos\TypeConversion\bin\Debug\net5.0\ref\TypeConversion.dll
+C:\Users\Zygimantas\source\repos\TypeConversion\bin\Debug\net5.0\TypeConversion.pdb
+C:\Users\Zygimantas\source\repos\TypeConversion\obj\Debug\net5.0\TypeConversion.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Zygimantas\source\repos\TypeConversion\obj\Debug\net5.0\TypeConversion.AssemblyInfoInputs.cache
+C:\Users\Zygimantas\source\repos\TypeConversion\obj\Debug\net5.0\TypeConversion.AssemblyInfo.cs
+C:\Users\Zygimantas\source\repos\TypeConversion\obj\Debug\net5.0\TypeConversion.csproj.CoreCompileInputs.cache
+C:\Users\Zygimantas\source\repos\TypeConversion\obj\Debug\net5.0\TypeConversion.dll
+C:\Users\Zygimantas\source\repos\TypeConversion\obj\Debug\net5.0\ref\TypeConversion.dll
+C:\Users\Zygimantas\source\repos\TypeConversion\obj\Debug\net5.0\TypeConversion.pdb
+C:\Users\Zygimantas\source\repos\TypeConversion\obj\Debug\net5.0\TypeConversion.genruntimeconfig.cache
+C:\Users\Zygimantas\source\repos\TypeConversion\obj\Debug\net5.0\TypeConversion.csproj.AssemblyReference.cache

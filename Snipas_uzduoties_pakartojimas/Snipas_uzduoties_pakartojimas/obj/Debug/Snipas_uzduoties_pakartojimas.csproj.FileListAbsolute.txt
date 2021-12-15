@@ -1,0 +1,7 @@
+C:\Users\Zygimantas\source\repos\Snipas_uzduoties_pakartojimas\Snipas_uzduoties_pakartojimas\bin\Debug\Snipas_uzduoties_pakartojimas.exe.config
+C:\Users\Zygimantas\source\repos\Snipas_uzduoties_pakartojimas\Snipas_uzduoties_pakartojimas\bin\Debug\Snipas_uzduoties_pakartojimas.exe
+C:\Users\Zygimantas\source\repos\Snipas_uzduoties_pakartojimas\Snipas_uzduoties_pakartojimas\bin\Debug\Snipas_uzduoties_pakartojimas.pdb
+C:\Users\Zygimantas\source\repos\Snipas_uzduoties_pakartojimas\Snipas_uzduoties_pakartojimas\obj\Debug\Snipas_uzduoties_pakartojimas.csproj.AssemblyReference.cache
+C:\Users\Zygimantas\source\repos\Snipas_uzduoties_pakartojimas\Snipas_uzduoties_pakartojimas\obj\Debug\Snipas_uzduoties_pakartojimas.csproj.CoreCompileInputs.cache
+C:\Users\Zygimantas\source\repos\Snipas_uzduoties_pakartojimas\Snipas_uzduoties_pakartojimas\obj\Debug\Snipas_uzduoties_pakartojimas.exe
+C:\Users\Zygimantas\source\repos\Snipas_uzduoties_pakartojimas\Snipas_uzduoties_pakartojimas\obj\Debug\Snipas_uzduoties_pakartojimas.pdb

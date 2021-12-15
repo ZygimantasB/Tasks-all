@@ -1,0 +1,7 @@
+C:\Users\Zygimantas\source\repos\praktika\praktika\bin\Debug\praktika.exe.config
+C:\Users\Zygimantas\source\repos\praktika\praktika\bin\Debug\praktika.exe
+C:\Users\Zygimantas\source\repos\praktika\praktika\bin\Debug\praktika.pdb
+C:\Users\Zygimantas\source\repos\praktika\praktika\obj\Debug\praktika.csproj.AssemblyReference.cache
+C:\Users\Zygimantas\source\repos\praktika\praktika\obj\Debug\praktika.csproj.CoreCompileInputs.cache
+C:\Users\Zygimantas\source\repos\praktika\praktika\obj\Debug\praktika.exe
+C:\Users\Zygimantas\source\repos\praktika\praktika\obj\Debug\praktika.pdb

@@ -1,0 +1,7 @@
+C:\Users\Zygimantas\source\repos\CodeWithMosh Date and Time\CodeWithMosh Date and Time\bin\Debug\CodeWithMosh Date and Time.exe.config
+C:\Users\Zygimantas\source\repos\CodeWithMosh Date and Time\CodeWithMosh Date and Time\bin\Debug\CodeWithMosh Date and Time.exe
+C:\Users\Zygimantas\source\repos\CodeWithMosh Date and Time\CodeWithMosh Date and Time\bin\Debug\CodeWithMosh Date and Time.pdb
+C:\Users\Zygimantas\source\repos\CodeWithMosh Date and Time\CodeWithMosh Date and Time\obj\Debug\CodeWithMosh Date and Time.csproj.AssemblyReference.cache
+C:\Users\Zygimantas\source\repos\CodeWithMosh Date and Time\CodeWithMosh Date and Time\obj\Debug\CodeWithMosh Date and Time.csproj.CoreCompileInputs.cache
+C:\Users\Zygimantas\source\repos\CodeWithMosh Date and Time\CodeWithMosh Date and Time\obj\Debug\CodeWithMosh Date and Time.exe
+C:\Users\Zygimantas\source\repos\CodeWithMosh Date and Time\CodeWithMosh Date and Time\obj\Debug\CodeWithMosh Date and Time.pdb

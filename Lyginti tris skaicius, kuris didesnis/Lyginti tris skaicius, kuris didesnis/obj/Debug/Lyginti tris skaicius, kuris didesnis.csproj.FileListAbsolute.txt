@@ -1,0 +1,7 @@
+C:\Users\Zygimantas\source\repos\Lyginti tris skaicius, kuris didesnis\Lyginti tris skaicius, kuris didesnis\bin\Debug\Lyginti tris skaicius, kuris didesnis.exe.config
+C:\Users\Zygimantas\source\repos\Lyginti tris skaicius, kuris didesnis\Lyginti tris skaicius, kuris didesnis\bin\Debug\Lyginti tris skaicius, kuris didesnis.exe
+C:\Users\Zygimantas\source\repos\Lyginti tris skaicius, kuris didesnis\Lyginti tris skaicius, kuris didesnis\bin\Debug\Lyginti tris skaicius, kuris didesnis.pdb
+C:\Users\Zygimantas\source\repos\Lyginti tris skaicius, kuris didesnis\Lyginti tris skaicius, kuris didesnis\obj\Debug\Lyginti tris skaicius, kuris didesnis.csproj.AssemblyReference.cache
+C:\Users\Zygimantas\source\repos\Lyginti tris skaicius, kuris didesnis\Lyginti tris skaicius, kuris didesnis\obj\Debug\Lyginti tris skaicius, kuris didesnis.csproj.CoreCompileInputs.cache
+C:\Users\Zygimantas\source\repos\Lyginti tris skaicius, kuris didesnis\Lyginti tris skaicius, kuris didesnis\obj\Debug\Lyginti tris skaicius, kuris didesnis.exe
+C:\Users\Zygimantas\source\repos\Lyginti tris skaicius, kuris didesnis\Lyginti tris skaicius, kuris didesnis\obj\Debug\Lyginti tris skaicius, kuris didesnis.pdb

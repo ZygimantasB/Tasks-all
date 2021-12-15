@@ -1,0 +1,6 @@
+C:\Users\Zygimantas\source\repos\Pakartotinis visu uzduociu atlikimas\Paveldimumas 1 uzduotis\obj\Debug\Paveldimumas 1 uzduotis.csproj.CoreCompileInputs.cache
+C:\Users\Zygimantas\source\repos\Pakartotinis visu uzduociu atlikimas\Paveldimumas 1 uzduotis\bin\Debug\Paveldimumas 1 uzduotis.exe.config
+C:\Users\Zygimantas\source\repos\Pakartotinis visu uzduociu atlikimas\Paveldimumas 1 uzduotis\bin\Debug\Paveldimumas 1 uzduotis.exe
+C:\Users\Zygimantas\source\repos\Pakartotinis visu uzduociu atlikimas\Paveldimumas 1 uzduotis\bin\Debug\Paveldimumas 1 uzduotis.pdb
+C:\Users\Zygimantas\source\repos\Pakartotinis visu uzduociu atlikimas\Paveldimumas 1 uzduotis\obj\Debug\Paveldimumas 1 uzduotis.exe
+C:\Users\Zygimantas\source\repos\Pakartotinis visu uzduociu atlikimas\Paveldimumas 1 uzduotis\obj\Debug\Paveldimumas 1 uzduotis.pdb

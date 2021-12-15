@@ -1,0 +1,7 @@
+C:\Users\Zygimantas\source\repos\Youtube pamokos ir pavyzdziai\LINQ in C Net made easy! Group Left Outer Join\bin\Debug\LINQ in C Net made easy! Group Left Outer Join.exe.config
+C:\Users\Zygimantas\source\repos\Youtube pamokos ir pavyzdziai\LINQ in C Net made easy! Group Left Outer Join\bin\Debug\LINQ in C Net made easy! Group Left Outer Join.exe
+C:\Users\Zygimantas\source\repos\Youtube pamokos ir pavyzdziai\LINQ in C Net made easy! Group Left Outer Join\bin\Debug\LINQ in C Net made easy! Group Left Outer Join.pdb
+C:\Users\Zygimantas\source\repos\Youtube pamokos ir pavyzdziai\LINQ in C Net made easy! Group Left Outer Join\obj\Debug\LINQ in C Net made easy! Group Left Outer Join.csproj.AssemblyReference.cache
+C:\Users\Zygimantas\source\repos\Youtube pamokos ir pavyzdziai\LINQ in C Net made easy! Group Left Outer Join\obj\Debug\LINQ in C Net made easy! Group Left Outer Join.csproj.CoreCompileInputs.cache
+C:\Users\Zygimantas\source\repos\Youtube pamokos ir pavyzdziai\LINQ in C Net made easy! Group Left Outer Join\obj\Debug\LINQ in C Net made easy! Group Left Outer Join.exe
+C:\Users\Zygimantas\source\repos\Youtube pamokos ir pavyzdziai\LINQ in C Net made easy! Group Left Outer Join\obj\Debug\LINQ in C Net made easy! Group Left Outer Join.pdb

@@ -1,0 +1,6 @@
+C:\Users\Zygimantas\source\repos\Pakartotinis visu uzduociu atlikimas\Metodu perrasymas 1 uzduotis\bin\Debug\Metodu perrasymas 1 uzduotis.exe.config
+C:\Users\Zygimantas\source\repos\Pakartotinis visu uzduociu atlikimas\Metodu perrasymas 1 uzduotis\bin\Debug\Metodu perrasymas 1 uzduotis.exe
+C:\Users\Zygimantas\source\repos\Pakartotinis visu uzduociu atlikimas\Metodu perrasymas 1 uzduotis\bin\Debug\Metodu perrasymas 1 uzduotis.pdb
+C:\Users\Zygimantas\source\repos\Pakartotinis visu uzduociu atlikimas\Metodu perrasymas 1 uzduotis\obj\Debug\Metodu perrasymas 1 uzduotis (reikia daugaiu praktikos).csproj.CoreCompileInputs.cache
+C:\Users\Zygimantas\source\repos\Pakartotinis visu uzduociu atlikimas\Metodu perrasymas 1 uzduotis\obj\Debug\Metodu perrasymas 1 uzduotis.exe
+C:\Users\Zygimantas\source\repos\Pakartotinis visu uzduociu atlikimas\Metodu perrasymas 1 uzduotis\obj\Debug\Metodu perrasymas 1 uzduotis.pdb

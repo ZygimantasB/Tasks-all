@@ -1,0 +1,7 @@
+C:\Users\Zygimantas\source\repos\Foreatch paaiškinimas\Foreatch paaiškinimas\bin\Debug\Foreatch paaiškinimas.exe.config
+C:\Users\Zygimantas\source\repos\Foreatch paaiškinimas\Foreatch paaiškinimas\bin\Debug\Foreatch paaiškinimas.exe
+C:\Users\Zygimantas\source\repos\Foreatch paaiškinimas\Foreatch paaiškinimas\bin\Debug\Foreatch paaiškinimas.pdb
+C:\Users\Zygimantas\source\repos\Foreatch paaiškinimas\Foreatch paaiškinimas\obj\Debug\Foreatch paaiškinimas.csproj.AssemblyReference.cache
+C:\Users\Zygimantas\source\repos\Foreatch paaiškinimas\Foreatch paaiškinimas\obj\Debug\Foreatch paaiškinimas.csproj.CoreCompileInputs.cache
+C:\Users\Zygimantas\source\repos\Foreatch paaiškinimas\Foreatch paaiškinimas\obj\Debug\Foreatch paaiškinimas.exe
+C:\Users\Zygimantas\source\repos\Foreatch paaiškinimas\Foreatch paaiškinimas\obj\Debug\Foreatch paaiškinimas.pdb

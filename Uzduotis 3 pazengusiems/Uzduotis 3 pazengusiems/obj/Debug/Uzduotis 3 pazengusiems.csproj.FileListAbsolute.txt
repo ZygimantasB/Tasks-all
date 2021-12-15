@@ -1,0 +1,7 @@
+C:\Users\Zygimantas\source\repos\Uzduotis 3 pazengusiems\Uzduotis 3 pazengusiems\obj\Debug\Uzduotis 3 pazengusiems.csproj.AssemblyReference.cache
+C:\Users\Zygimantas\source\repos\Uzduotis 3 pazengusiems\Uzduotis 3 pazengusiems\obj\Debug\Uzduotis 3 pazengusiems.csproj.CoreCompileInputs.cache
+C:\Users\Zygimantas\source\repos\Uzduotis 3 pazengusiems\Uzduotis 3 pazengusiems\bin\Debug\Uzduotis 3 pazengusiems.exe.config
+C:\Users\Zygimantas\source\repos\Uzduotis 3 pazengusiems\Uzduotis 3 pazengusiems\bin\Debug\Uzduotis 3 pazengusiems.exe
+C:\Users\Zygimantas\source\repos\Uzduotis 3 pazengusiems\Uzduotis 3 pazengusiems\bin\Debug\Uzduotis 3 pazengusiems.pdb
+C:\Users\Zygimantas\source\repos\Uzduotis 3 pazengusiems\Uzduotis 3 pazengusiems\obj\Debug\Uzduotis 3 pazengusiems.exe
+C:\Users\Zygimantas\source\repos\Uzduotis 3 pazengusiems\Uzduotis 3 pazengusiems\obj\Debug\Uzduotis 3 pazengusiems.pdb

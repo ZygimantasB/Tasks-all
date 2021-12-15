@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31624.102
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Ciklai", "Ciklai\Ciklai.csproj", "{09409C21-454D-416A-BF55-DA774C93D460}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{09409C21-454D-416A-BF55-DA774C93D460}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{09409C21-454D-416A-BF55-DA774C93D460}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{09409C21-454D-416A-BF55-DA774C93D460}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{09409C21-454D-416A-BF55-DA774C93D460}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {775BA3A7-C2FD-4C7F-A2B8-8358BDD4AD60}
+	EndGlobalSection
+EndGlobal

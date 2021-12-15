@@ -1,0 +1,7 @@
+C:\Users\Zygimantas\source\repos\Bandymas1\Bandymas1\bin\Debug\Bandymas1.exe.config
+C:\Users\Zygimantas\source\repos\Bandymas1\Bandymas1\bin\Debug\Bandymas1.exe
+C:\Users\Zygimantas\source\repos\Bandymas1\Bandymas1\bin\Debug\Bandymas1.pdb
+C:\Users\Zygimantas\source\repos\Bandymas1\Bandymas1\obj\Debug\Bandymas1.csproj.AssemblyReference.cache
+C:\Users\Zygimantas\source\repos\Bandymas1\Bandymas1\obj\Debug\Bandymas1.csproj.CoreCompileInputs.cache
+C:\Users\Zygimantas\source\repos\Bandymas1\Bandymas1\obj\Debug\Bandymas1.exe
+C:\Users\Zygimantas\source\repos\Bandymas1\Bandymas1\obj\Debug\Bandymas1.pdb

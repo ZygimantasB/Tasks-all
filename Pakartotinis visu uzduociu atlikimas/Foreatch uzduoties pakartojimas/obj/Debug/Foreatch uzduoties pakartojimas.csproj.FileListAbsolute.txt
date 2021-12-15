@@ -1,0 +1,6 @@
+C:\Users\Zygimantas\source\repos\Pakartotinis visu uzduociu atlikimas\Foreatch uzduoties pakartojimas\bin\Debug\Foreatch uzduoties pakartojimas.exe.config
+C:\Users\Zygimantas\source\repos\Pakartotinis visu uzduociu atlikimas\Foreatch uzduoties pakartojimas\bin\Debug\Foreatch uzduoties pakartojimas.exe
+C:\Users\Zygimantas\source\repos\Pakartotinis visu uzduociu atlikimas\Foreatch uzduoties pakartojimas\bin\Debug\Foreatch uzduoties pakartojimas.pdb
+C:\Users\Zygimantas\source\repos\Pakartotinis visu uzduociu atlikimas\Foreatch uzduoties pakartojimas\obj\Debug\Foreatch uzduoties pakartojimas.csproj.CoreCompileInputs.cache
+C:\Users\Zygimantas\source\repos\Pakartotinis visu uzduociu atlikimas\Foreatch uzduoties pakartojimas\obj\Debug\Foreatch uzduoties pakartojimas.exe
+C:\Users\Zygimantas\source\repos\Pakartotinis visu uzduociu atlikimas\Foreatch uzduoties pakartojimas\obj\Debug\Foreatch uzduoties pakartojimas.pdb

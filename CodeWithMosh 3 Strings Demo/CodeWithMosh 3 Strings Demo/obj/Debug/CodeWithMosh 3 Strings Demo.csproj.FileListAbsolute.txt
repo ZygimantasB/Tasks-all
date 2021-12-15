@@ -1,0 +1,7 @@
+C:\Users\Zygimantas\source\repos\CodeWithMosh 3 Strings Demo\CodeWithMosh 3 Strings Demo\bin\Debug\CodeWithMosh 3 Strings Demo.exe.config
+C:\Users\Zygimantas\source\repos\CodeWithMosh 3 Strings Demo\CodeWithMosh 3 Strings Demo\bin\Debug\CodeWithMosh 3 Strings Demo.exe
+C:\Users\Zygimantas\source\repos\CodeWithMosh 3 Strings Demo\CodeWithMosh 3 Strings Demo\bin\Debug\CodeWithMosh 3 Strings Demo.pdb
+C:\Users\Zygimantas\source\repos\CodeWithMosh 3 Strings Demo\CodeWithMosh 3 Strings Demo\obj\Debug\CodeWithMosh 3 Strings Demo.csproj.AssemblyReference.cache
+C:\Users\Zygimantas\source\repos\CodeWithMosh 3 Strings Demo\CodeWithMosh 3 Strings Demo\obj\Debug\CodeWithMosh 3 Strings Demo.csproj.CoreCompileInputs.cache
+C:\Users\Zygimantas\source\repos\CodeWithMosh 3 Strings Demo\CodeWithMosh 3 Strings Demo\obj\Debug\CodeWithMosh 3 Strings Demo.exe
+C:\Users\Zygimantas\source\repos\CodeWithMosh 3 Strings Demo\CodeWithMosh 3 Strings Demo\obj\Debug\CodeWithMosh 3 Strings Demo.pdb

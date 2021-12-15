@@ -1,0 +1,7 @@
+C:\Users\Zygimantas\source\repos\Slaptas skaicius\Slaptas skaicius\bin\Debug\Slaptas skaicius.exe.config
+C:\Users\Zygimantas\source\repos\Slaptas skaicius\Slaptas skaicius\bin\Debug\Slaptas skaicius.exe
+C:\Users\Zygimantas\source\repos\Slaptas skaicius\Slaptas skaicius\bin\Debug\Slaptas skaicius.pdb
+C:\Users\Zygimantas\source\repos\Slaptas skaicius\Slaptas skaicius\obj\Debug\Slaptas skaicius.csproj.AssemblyReference.cache
+C:\Users\Zygimantas\source\repos\Slaptas skaicius\Slaptas skaicius\obj\Debug\Slaptas skaicius.csproj.CoreCompileInputs.cache
+C:\Users\Zygimantas\source\repos\Slaptas skaicius\Slaptas skaicius\obj\Debug\Slaptas skaicius.exe
+C:\Users\Zygimantas\source\repos\Slaptas skaicius\Slaptas skaicius\obj\Debug\Slaptas skaicius.pdb

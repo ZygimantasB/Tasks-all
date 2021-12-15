@@ -1,0 +1,4 @@
+C:\Users\Zygimantas\source\repos\Pakartotinis visu uzduociu atlikimas\Masyvai\obj\Debug\Masyvai (Eksperimentas nesigavo).csproj.AssemblyReference.cache
+C:\Users\Zygimantas\source\repos\Pakartotinis visu uzduociu atlikimas\Masyvai\obj\Debug\Masyvai (Eksperimentas nesigavo).csproj.CoreCompileInputs.cache
+C:\Users\Zygimantas\source\repos\Pakartotinis visu uzduociu atlikimas\Masyvai\obj\Debug\Masyvai.exe
+C:\Users\Zygimantas\source\repos\Pakartotinis visu uzduociu atlikimas\Masyvai\obj\Debug\Masyvai.pdb

@@ -1,0 +1,7 @@
+C:\Users\Zygimantas\source\repos\37 skaidre kepykla\37 skaidre kepykla\bin\Debug\37 skaidre kepykla.exe.config
+C:\Users\Zygimantas\source\repos\37 skaidre kepykla\37 skaidre kepykla\bin\Debug\37 skaidre kepykla.exe
+C:\Users\Zygimantas\source\repos\37 skaidre kepykla\37 skaidre kepykla\bin\Debug\37 skaidre kepykla.pdb
+C:\Users\Zygimantas\source\repos\37 skaidre kepykla\37 skaidre kepykla\obj\Debug\37 skaidre kepykla.csproj.AssemblyReference.cache
+C:\Users\Zygimantas\source\repos\37 skaidre kepykla\37 skaidre kepykla\obj\Debug\37 skaidre kepykla.csproj.CoreCompileInputs.cache
+C:\Users\Zygimantas\source\repos\37 skaidre kepykla\37 skaidre kepykla\obj\Debug\37 skaidre kepykla.exe
+C:\Users\Zygimantas\source\repos\37 skaidre kepykla\37 skaidre kepykla\obj\Debug\37 skaidre kepykla.pdb

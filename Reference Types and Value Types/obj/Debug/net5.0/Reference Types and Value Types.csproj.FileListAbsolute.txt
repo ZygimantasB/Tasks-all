@@ -1,0 +1,16 @@
+C:\Users\Zygimantas\source\repos\Reference Types and Value Types\bin\Debug\net5.0\Reference Types and Value Types.exe
+C:\Users\Zygimantas\source\repos\Reference Types and Value Types\bin\Debug\net5.0\Reference Types and Value Types.deps.json
+C:\Users\Zygimantas\source\repos\Reference Types and Value Types\bin\Debug\net5.0\Reference Types and Value Types.runtimeconfig.json
+C:\Users\Zygimantas\source\repos\Reference Types and Value Types\bin\Debug\net5.0\Reference Types and Value Types.runtimeconfig.dev.json
+C:\Users\Zygimantas\source\repos\Reference Types and Value Types\bin\Debug\net5.0\Reference Types and Value Types.dll
+C:\Users\Zygimantas\source\repos\Reference Types and Value Types\bin\Debug\net5.0\ref\Reference Types and Value Types.dll
+C:\Users\Zygimantas\source\repos\Reference Types and Value Types\bin\Debug\net5.0\Reference Types and Value Types.pdb
+C:\Users\Zygimantas\source\repos\Reference Types and Value Types\obj\Debug\net5.0\Reference Types and Value Types.csproj.AssemblyReference.cache
+C:\Users\Zygimantas\source\repos\Reference Types and Value Types\obj\Debug\net5.0\Reference Types and Value Types.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Zygimantas\source\repos\Reference Types and Value Types\obj\Debug\net5.0\Reference Types and Value Types.AssemblyInfoInputs.cache
+C:\Users\Zygimantas\source\repos\Reference Types and Value Types\obj\Debug\net5.0\Reference Types and Value Types.AssemblyInfo.cs
+C:\Users\Zygimantas\source\repos\Reference Types and Value Types\obj\Debug\net5.0\Reference Types and Value Types.csproj.CoreCompileInputs.cache
+C:\Users\Zygimantas\source\repos\Reference Types and Value Types\obj\Debug\net5.0\Reference Types and Value Types.dll
+C:\Users\Zygimantas\source\repos\Reference Types and Value Types\obj\Debug\net5.0\ref\Reference Types and Value Types.dll
+C:\Users\Zygimantas\source\repos\Reference Types and Value Types\obj\Debug\net5.0\Reference Types and Value Types.pdb
+C:\Users\Zygimantas\source\repos\Reference Types and Value Types\obj\Debug\net5.0\Reference Types and Value Types.genruntimeconfig.cache

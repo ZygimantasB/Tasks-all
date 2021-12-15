@@ -1,0 +1,7 @@
+C:\Users\Zygimantas\source\repos\Apskritimas užduoties pakartojimas\Apskritimas užduoties pakartojimas\bin\Debug\Apskritimas užduoties pakartojimas.exe.config
+C:\Users\Zygimantas\source\repos\Apskritimas užduoties pakartojimas\Apskritimas užduoties pakartojimas\bin\Debug\Apskritimas užduoties pakartojimas.exe
+C:\Users\Zygimantas\source\repos\Apskritimas užduoties pakartojimas\Apskritimas užduoties pakartojimas\bin\Debug\Apskritimas užduoties pakartojimas.pdb
+C:\Users\Zygimantas\source\repos\Apskritimas užduoties pakartojimas\Apskritimas užduoties pakartojimas\obj\Debug\Apskritimas užduoties pakartojimas.csproj.AssemblyReference.cache
+C:\Users\Zygimantas\source\repos\Apskritimas užduoties pakartojimas\Apskritimas užduoties pakartojimas\obj\Debug\Apskritimas užduoties pakartojimas.csproj.CoreCompileInputs.cache
+C:\Users\Zygimantas\source\repos\Apskritimas užduoties pakartojimas\Apskritimas užduoties pakartojimas\obj\Debug\Apskritimas užduoties pakartojimas.exe
+C:\Users\Zygimantas\source\repos\Apskritimas užduoties pakartojimas\Apskritimas užduoties pakartojimas\obj\Debug\Apskritimas užduoties pakartojimas.pdb

@@ -1,0 +1,6 @@
+C:\Users\Zygimantas\source\repos\Pakartotinis visu uzduociu atlikimas\Uzduotis metodai\bin\Debug\Uzduotis metodai.exe.config
+C:\Users\Zygimantas\source\repos\Pakartotinis visu uzduociu atlikimas\Uzduotis metodai\bin\Debug\Uzduotis metodai.exe
+C:\Users\Zygimantas\source\repos\Pakartotinis visu uzduociu atlikimas\Uzduotis metodai\bin\Debug\Uzduotis metodai.pdb
+C:\Users\Zygimantas\source\repos\Pakartotinis visu uzduociu atlikimas\Uzduotis metodai\obj\Debug\Uzduotis metodai.csproj.CoreCompileInputs.cache
+C:\Users\Zygimantas\source\repos\Pakartotinis visu uzduociu atlikimas\Uzduotis metodai\obj\Debug\Uzduotis metodai.exe
+C:\Users\Zygimantas\source\repos\Pakartotinis visu uzduociu atlikimas\Uzduotis metodai\obj\Debug\Uzduotis metodai.pdb

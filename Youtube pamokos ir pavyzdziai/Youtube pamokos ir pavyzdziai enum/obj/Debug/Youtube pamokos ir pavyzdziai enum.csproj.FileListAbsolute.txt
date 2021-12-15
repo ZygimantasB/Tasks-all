@@ -1,0 +1,7 @@
+C:\Users\Zygimantas\source\repos\Youtube pamokos ir pavyzdziai\Youtube pamokos ir pavyzdziai enum\bin\Debug\Youtube pamokos ir pavyzdziai enum.exe.config
+C:\Users\Zygimantas\source\repos\Youtube pamokos ir pavyzdziai\Youtube pamokos ir pavyzdziai enum\bin\Debug\Youtube pamokos ir pavyzdziai enum.exe
+C:\Users\Zygimantas\source\repos\Youtube pamokos ir pavyzdziai\Youtube pamokos ir pavyzdziai enum\bin\Debug\Youtube pamokos ir pavyzdziai enum.pdb
+C:\Users\Zygimantas\source\repos\Youtube pamokos ir pavyzdziai\Youtube pamokos ir pavyzdziai enum\obj\Debug\Youtube pamokos ir pavyzdziai enum.csproj.CoreCompileInputs.cache
+C:\Users\Zygimantas\source\repos\Youtube pamokos ir pavyzdziai\Youtube pamokos ir pavyzdziai enum\obj\Debug\Youtube pamokos ir pavyzdziai enum.exe
+C:\Users\Zygimantas\source\repos\Youtube pamokos ir pavyzdziai\Youtube pamokos ir pavyzdziai enum\obj\Debug\Youtube pamokos ir pavyzdziai enum.pdb
+C:\Users\Zygimantas\source\repos\Youtube pamokos ir pavyzdziai\Youtube pamokos ir pavyzdziai enum\obj\Debug\Youtube pamokos ir pavyzdziai enum.csproj.AssemblyReference.cache

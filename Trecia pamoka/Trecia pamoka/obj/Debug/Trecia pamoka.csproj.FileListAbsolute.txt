@@ -1,0 +1,7 @@
+C:\Users\Zygimantas\source\repos\Trecia pamoka\Trecia pamoka\bin\Debug\Trecia pamoka.exe.config
+C:\Users\Zygimantas\source\repos\Trecia pamoka\Trecia pamoka\bin\Debug\Trecia pamoka.exe
+C:\Users\Zygimantas\source\repos\Trecia pamoka\Trecia pamoka\bin\Debug\Trecia pamoka.pdb
+C:\Users\Zygimantas\source\repos\Trecia pamoka\Trecia pamoka\obj\Debug\Trecia pamoka.csproj.AssemblyReference.cache
+C:\Users\Zygimantas\source\repos\Trecia pamoka\Trecia pamoka\obj\Debug\Trecia pamoka.csproj.CoreCompileInputs.cache
+C:\Users\Zygimantas\source\repos\Trecia pamoka\Trecia pamoka\obj\Debug\Trecia pamoka.exe
+C:\Users\Zygimantas\source\repos\Trecia pamoka\Trecia pamoka\obj\Debug\Trecia pamoka.pdb

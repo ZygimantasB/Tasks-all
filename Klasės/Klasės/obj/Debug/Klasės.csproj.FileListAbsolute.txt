@@ -1,0 +1,7 @@
+C:\Users\Zygimantas\source\repos\Klasės\Klasės\bin\Debug\Klasės.exe.config
+C:\Users\Zygimantas\source\repos\Klasės\Klasės\bin\Debug\Klasės.exe
+C:\Users\Zygimantas\source\repos\Klasės\Klasės\bin\Debug\Klasės.pdb
+C:\Users\Zygimantas\source\repos\Klasės\Klasės\obj\Debug\Klasės.csproj.AssemblyReference.cache
+C:\Users\Zygimantas\source\repos\Klasės\Klasės\obj\Debug\Klasės.csproj.CoreCompileInputs.cache
+C:\Users\Zygimantas\source\repos\Klasės\Klasės\obj\Debug\Klasės.exe
+C:\Users\Zygimantas\source\repos\Klasės\Klasės\obj\Debug\Klasės.pdb

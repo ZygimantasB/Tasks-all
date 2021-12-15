@@ -1,0 +1,7 @@
+C:\Users\Zygimantas\source\repos\Uzuotis klases pasikartio\Uzuotis klases pasikartio\bin\Debug\Uzuotis klases pasikartio.exe.config
+C:\Users\Zygimantas\source\repos\Uzuotis klases pasikartio\Uzuotis klases pasikartio\bin\Debug\Uzuotis klases pasikartio.exe
+C:\Users\Zygimantas\source\repos\Uzuotis klases pasikartio\Uzuotis klases pasikartio\bin\Debug\Uzuotis klases pasikartio.pdb
+C:\Users\Zygimantas\source\repos\Uzuotis klases pasikartio\Uzuotis klases pasikartio\obj\Debug\Uzuotis klases pasikartio.csproj.AssemblyReference.cache
+C:\Users\Zygimantas\source\repos\Uzuotis klases pasikartio\Uzuotis klases pasikartio\obj\Debug\Uzuotis klases pasikartio.csproj.CoreCompileInputs.cache
+C:\Users\Zygimantas\source\repos\Uzuotis klases pasikartio\Uzuotis klases pasikartio\obj\Debug\Uzuotis klases pasikartio.exe
+C:\Users\Zygimantas\source\repos\Uzuotis klases pasikartio\Uzuotis klases pasikartio\obj\Debug\Uzuotis klases pasikartio.pdb

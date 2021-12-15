@@ -1,0 +1,7 @@
+C:\Users\Zygimantas\source\repos\36 skaidre\36 skaidre\bin\Debug\36 skaidre.exe.config
+C:\Users\Zygimantas\source\repos\36 skaidre\36 skaidre\bin\Debug\36 skaidre.exe
+C:\Users\Zygimantas\source\repos\36 skaidre\36 skaidre\bin\Debug\36 skaidre.pdb
+C:\Users\Zygimantas\source\repos\36 skaidre\36 skaidre\obj\Debug\36 skaidre.csproj.AssemblyReference.cache
+C:\Users\Zygimantas\source\repos\36 skaidre\36 skaidre\obj\Debug\36 skaidre.csproj.CoreCompileInputs.cache
+C:\Users\Zygimantas\source\repos\36 skaidre\36 skaidre\obj\Debug\36 skaidre.exe
+C:\Users\Zygimantas\source\repos\36 skaidre\36 skaidre\obj\Debug\36 skaidre.pdb

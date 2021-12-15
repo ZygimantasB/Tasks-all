@@ -1,0 +1,16 @@
+C:\Users\Zygimantas\source\repos\Demo Foreach Loops\bin\Debug\net5.0\Demo Foreach Loops.exe
+C:\Users\Zygimantas\source\repos\Demo Foreach Loops\bin\Debug\net5.0\Demo Foreach Loops.deps.json
+C:\Users\Zygimantas\source\repos\Demo Foreach Loops\bin\Debug\net5.0\Demo Foreach Loops.runtimeconfig.json
+C:\Users\Zygimantas\source\repos\Demo Foreach Loops\bin\Debug\net5.0\Demo Foreach Loops.runtimeconfig.dev.json
+C:\Users\Zygimantas\source\repos\Demo Foreach Loops\bin\Debug\net5.0\Demo Foreach Loops.dll
+C:\Users\Zygimantas\source\repos\Demo Foreach Loops\bin\Debug\net5.0\ref\Demo Foreach Loops.dll
+C:\Users\Zygimantas\source\repos\Demo Foreach Loops\bin\Debug\net5.0\Demo Foreach Loops.pdb
+C:\Users\Zygimantas\source\repos\Demo Foreach Loops\obj\Debug\net5.0\Demo Foreach Loops.csproj.AssemblyReference.cache
+C:\Users\Zygimantas\source\repos\Demo Foreach Loops\obj\Debug\net5.0\Demo Foreach Loops.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Zygimantas\source\repos\Demo Foreach Loops\obj\Debug\net5.0\Demo Foreach Loops.AssemblyInfoInputs.cache
+C:\Users\Zygimantas\source\repos\Demo Foreach Loops\obj\Debug\net5.0\Demo Foreach Loops.AssemblyInfo.cs
+C:\Users\Zygimantas\source\repos\Demo Foreach Loops\obj\Debug\net5.0\Demo Foreach Loops.csproj.CoreCompileInputs.cache
+C:\Users\Zygimantas\source\repos\Demo Foreach Loops\obj\Debug\net5.0\Demo Foreach Loops.dll
+C:\Users\Zygimantas\source\repos\Demo Foreach Loops\obj\Debug\net5.0\ref\Demo Foreach Loops.dll
+C:\Users\Zygimantas\source\repos\Demo Foreach Loops\obj\Debug\net5.0\Demo Foreach Loops.pdb
+C:\Users\Zygimantas\source\repos\Demo Foreach Loops\obj\Debug\net5.0\Demo Foreach Loops.genruntimeconfig.cache

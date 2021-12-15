@@ -1,0 +1,2 @@
+C:\Users\Zygimantas\source\repos\Pakartotinis visu uzduociu atlikimas\3 Uzduotis Geometrija pakartojimas\obj\Debug\3 Uzduotis Geometrija pakartojimas.csproj.AssemblyReference.cache
+C:\Users\Zygimantas\source\repos\Pakartotinis visu uzduociu atlikimas\3 Uzduotis Geometrija pakartojimas\obj\Debug\3 Uzduotis Geometrija pakartojimas.csproj.CoreCompileInputs.cache

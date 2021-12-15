@@ -1,0 +1,7 @@
+C:\Users\Zygimantas\source\repos\Masyvai pasikartojimas\Masyvai pasikartojimas\bin\Debug\Masyvai pasikartojimas.exe.config
+C:\Users\Zygimantas\source\repos\Masyvai pasikartojimas\Masyvai pasikartojimas\bin\Debug\Masyvai pasikartojimas.exe
+C:\Users\Zygimantas\source\repos\Masyvai pasikartojimas\Masyvai pasikartojimas\bin\Debug\Masyvai pasikartojimas.pdb
+C:\Users\Zygimantas\source\repos\Masyvai pasikartojimas\Masyvai pasikartojimas\obj\Debug\Masyvai pasikartojimas.csproj.AssemblyReference.cache
+C:\Users\Zygimantas\source\repos\Masyvai pasikartojimas\Masyvai pasikartojimas\obj\Debug\Masyvai pasikartojimas.csproj.CoreCompileInputs.cache
+C:\Users\Zygimantas\source\repos\Masyvai pasikartojimas\Masyvai pasikartojimas\obj\Debug\Masyvai pasikartojimas.exe
+C:\Users\Zygimantas\source\repos\Masyvai pasikartojimas\Masyvai pasikartojimas\obj\Debug\Masyvai pasikartojimas.pdb

@@ -1,0 +1,7 @@
+C:\Users\Zygimantas\source\repos\Uzduotis medis\Uzduotis medis\bin\Debug\Uzduotis medis.exe.config
+C:\Users\Zygimantas\source\repos\Uzduotis medis\Uzduotis medis\bin\Debug\Uzduotis medis.exe
+C:\Users\Zygimantas\source\repos\Uzduotis medis\Uzduotis medis\bin\Debug\Uzduotis medis.pdb
+C:\Users\Zygimantas\source\repos\Uzduotis medis\Uzduotis medis\obj\Debug\Uzduotis medis.csproj.AssemblyReference.cache
+C:\Users\Zygimantas\source\repos\Uzduotis medis\Uzduotis medis\obj\Debug\Uzduotis medis.csproj.CoreCompileInputs.cache
+C:\Users\Zygimantas\source\repos\Uzduotis medis\Uzduotis medis\obj\Debug\Uzduotis medis.exe
+C:\Users\Zygimantas\source\repos\Uzduotis medis\Uzduotis medis\obj\Debug\Uzduotis medis.pdb

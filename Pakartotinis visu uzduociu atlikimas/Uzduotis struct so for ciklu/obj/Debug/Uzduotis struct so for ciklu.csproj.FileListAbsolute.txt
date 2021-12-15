@@ -1,0 +1,6 @@
+C:\Users\Zygimantas\source\repos\Pakartotinis visu uzduociu atlikimas\Uzduotis struct so for ciklu\obj\Debug\Uzduotis struct so for ciklu.csproj.CoreCompileInputs.cache
+C:\Users\Zygimantas\source\repos\Pakartotinis visu uzduociu atlikimas\Uzduotis struct so for ciklu\bin\Debug\Uzduotis struct so for ciklu.exe.config
+C:\Users\Zygimantas\source\repos\Pakartotinis visu uzduociu atlikimas\Uzduotis struct so for ciklu\bin\Debug\Uzduotis struct so for ciklu.exe
+C:\Users\Zygimantas\source\repos\Pakartotinis visu uzduociu atlikimas\Uzduotis struct so for ciklu\bin\Debug\Uzduotis struct so for ciklu.pdb
+C:\Users\Zygimantas\source\repos\Pakartotinis visu uzduociu atlikimas\Uzduotis struct so for ciklu\obj\Debug\Uzduotis struct so for ciklu.exe
+C:\Users\Zygimantas\source\repos\Pakartotinis visu uzduociu atlikimas\Uzduotis struct so for ciklu\obj\Debug\Uzduotis struct so for ciklu.pdb

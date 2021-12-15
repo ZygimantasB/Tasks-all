@@ -1,0 +1,2 @@
+C:\Users\Zygimantas\source\repos\Youtube pamokos ir pavyzdziai\Youtube pamokos ir pavyzdziai\obj\Debug\Youtube pamokos ir pavyzdziai struct.csproj.AssemblyReference.cache
+C:\Users\Zygimantas\source\repos\Youtube pamokos ir pavyzdziai\Youtube pamokos ir pavyzdziai\obj\Debug\Youtube pamokos ir pavyzdziai struct.csproj.CoreCompileInputs.cache

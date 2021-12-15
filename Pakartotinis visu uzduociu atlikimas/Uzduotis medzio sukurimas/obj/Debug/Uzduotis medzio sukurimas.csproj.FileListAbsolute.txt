@@ -1,0 +1,6 @@
+C:\Users\Zygimantas\source\repos\Pakartotinis visu uzduociu atlikimas\Uzduotis medzio sukurimas\bin\Debug\Uzduotis medzio sukurimas.exe.config
+C:\Users\Zygimantas\source\repos\Pakartotinis visu uzduociu atlikimas\Uzduotis medzio sukurimas\bin\Debug\Uzduotis medzio sukurimas.exe
+C:\Users\Zygimantas\source\repos\Pakartotinis visu uzduociu atlikimas\Uzduotis medzio sukurimas\bin\Debug\Uzduotis medzio sukurimas.pdb
+C:\Users\Zygimantas\source\repos\Pakartotinis visu uzduociu atlikimas\Uzduotis medzio sukurimas\obj\Debug\Uzduotis medzio sukurimas.csproj.CoreCompileInputs.cache
+C:\Users\Zygimantas\source\repos\Pakartotinis visu uzduociu atlikimas\Uzduotis medzio sukurimas\obj\Debug\Uzduotis medzio sukurimas.exe
+C:\Users\Zygimantas\source\repos\Pakartotinis visu uzduociu atlikimas\Uzduotis medzio sukurimas\obj\Debug\Uzduotis medzio sukurimas.pdb

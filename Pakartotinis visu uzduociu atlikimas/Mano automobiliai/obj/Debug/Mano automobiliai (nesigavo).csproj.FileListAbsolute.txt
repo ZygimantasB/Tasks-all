@@ -1,0 +1,6 @@
+C:\Users\Zygimantas\source\repos\Pakartotinis visu uzduociu atlikimas\Mano automobiliai\bin\Debug\Mano automobiliai.exe.config
+C:\Users\Zygimantas\source\repos\Pakartotinis visu uzduociu atlikimas\Mano automobiliai\bin\Debug\Mano automobiliai.exe
+C:\Users\Zygimantas\source\repos\Pakartotinis visu uzduociu atlikimas\Mano automobiliai\bin\Debug\Mano automobiliai.pdb
+C:\Users\Zygimantas\source\repos\Pakartotinis visu uzduociu atlikimas\Mano automobiliai\obj\Debug\Mano automobiliai (nesigavo).csproj.CoreCompileInputs.cache
+C:\Users\Zygimantas\source\repos\Pakartotinis visu uzduociu atlikimas\Mano automobiliai\obj\Debug\Mano automobiliai.exe
+C:\Users\Zygimantas\source\repos\Pakartotinis visu uzduociu atlikimas\Mano automobiliai\obj\Debug\Mano automobiliai.pdb

@@ -1,0 +1,16 @@
+C:\Users\Zygimantas\source\repos\21 Paskaita\21 Paskaita\bin\Debug\21 Paskaita.exe.config
+C:\Users\Zygimantas\source\repos\21 Paskaita\21 Paskaita\bin\Debug\21 Paskaita.exe
+C:\Users\Zygimantas\source\repos\21 Paskaita\21 Paskaita\bin\Debug\21 Paskaita.pdb
+C:\Users\Zygimantas\source\repos\21 Paskaita\21 Paskaita\obj\Debug\21 Paskaita.csproj.AssemblyReference.cache
+C:\Users\Zygimantas\source\repos\21 Paskaita\21 Paskaita\obj\Debug\21 Paskaita.csproj.SuggestedBindingRedirects.cache
+C:\Users\Zygimantas\source\repos\21 Paskaita\21 Paskaita\obj\Debug\MainWindow.g.cs
+C:\Users\Zygimantas\source\repos\21 Paskaita\21 Paskaita\obj\Debug\App.g.cs
+C:\Users\Zygimantas\source\repos\21 Paskaita\21 Paskaita\obj\Debug\21 Paskaita_MarkupCompile.cache
+C:\Users\Zygimantas\source\repos\21 Paskaita\21 Paskaita\obj\Debug\21 Paskaita_MarkupCompile.lref
+C:\Users\Zygimantas\source\repos\21 Paskaita\21 Paskaita\obj\Debug\MainWindow.baml
+C:\Users\Zygimantas\source\repos\21 Paskaita\21 Paskaita\obj\Debug\21 Paskaita.g.resources
+C:\Users\Zygimantas\source\repos\21 Paskaita\21 Paskaita\obj\Debug\_21_Paskaita.Properties.Resources.resources
+C:\Users\Zygimantas\source\repos\21 Paskaita\21 Paskaita\obj\Debug\21 Paskaita.csproj.GenerateResource.cache
+C:\Users\Zygimantas\source\repos\21 Paskaita\21 Paskaita\obj\Debug\21 Paskaita.csproj.CoreCompileInputs.cache
+C:\Users\Zygimantas\source\repos\21 Paskaita\21 Paskaita\obj\Debug\21 Paskaita.exe
+C:\Users\Zygimantas\source\repos\21 Paskaita\21 Paskaita\obj\Debug\21 Paskaita.pdb

@@ -1,0 +1,7 @@
+C:\Users\Zygimantas\source\repos\PirmasCSharpDarbas\PirmasCSharpDarbas\bin\Debug\PirmasCSharpDarbas.exe.config
+C:\Users\Zygimantas\source\repos\PirmasCSharpDarbas\PirmasCSharpDarbas\bin\Debug\PirmasCSharpDarbas.exe
+C:\Users\Zygimantas\source\repos\PirmasCSharpDarbas\PirmasCSharpDarbas\bin\Debug\PirmasCSharpDarbas.pdb
+C:\Users\Zygimantas\source\repos\PirmasCSharpDarbas\PirmasCSharpDarbas\obj\Debug\PirmasCSharpDarbas.csproj.AssemblyReference.cache
+C:\Users\Zygimantas\source\repos\PirmasCSharpDarbas\PirmasCSharpDarbas\obj\Debug\PirmasCSharpDarbas.csproj.CoreCompileInputs.cache
+C:\Users\Zygimantas\source\repos\PirmasCSharpDarbas\PirmasCSharpDarbas\obj\Debug\PirmasCSharpDarbas.exe
+C:\Users\Zygimantas\source\repos\PirmasCSharpDarbas\PirmasCSharpDarbas\obj\Debug\PirmasCSharpDarbas.pdb

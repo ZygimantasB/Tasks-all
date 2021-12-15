@@ -1,0 +1,6 @@
+C:\Users\Zygimantas\source\repos\Pakartotinis visu uzduociu atlikimas\Pasirinkimai\obj\Debug\Pasirinkimai.csproj.CoreCompileInputs.cache
+C:\Users\Zygimantas\source\repos\Pakartotinis visu uzduociu atlikimas\Pasirinkimai\bin\Debug\Pasirinkimai.exe.config
+C:\Users\Zygimantas\source\repos\Pakartotinis visu uzduociu atlikimas\Pasirinkimai\bin\Debug\Pasirinkimai.exe
+C:\Users\Zygimantas\source\repos\Pakartotinis visu uzduociu atlikimas\Pasirinkimai\bin\Debug\Pasirinkimai.pdb
+C:\Users\Zygimantas\source\repos\Pakartotinis visu uzduociu atlikimas\Pasirinkimai\obj\Debug\Pasirinkimai.exe
+C:\Users\Zygimantas\source\repos\Pakartotinis visu uzduociu atlikimas\Pasirinkimai\obj\Debug\Pasirinkimai.pdb

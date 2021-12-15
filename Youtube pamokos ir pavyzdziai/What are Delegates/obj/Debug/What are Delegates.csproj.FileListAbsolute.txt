@@ -1,0 +1,7 @@
+C:\Users\Zygimantas\source\repos\Youtube pamokos ir pavyzdziai\What are Delegates\bin\Debug\What are Delegates.exe.config
+C:\Users\Zygimantas\source\repos\Youtube pamokos ir pavyzdziai\What are Delegates\bin\Debug\What are Delegates.exe
+C:\Users\Zygimantas\source\repos\Youtube pamokos ir pavyzdziai\What are Delegates\bin\Debug\What are Delegates.pdb
+C:\Users\Zygimantas\source\repos\Youtube pamokos ir pavyzdziai\What are Delegates\obj\Debug\What are Delegates.csproj.AssemblyReference.cache
+C:\Users\Zygimantas\source\repos\Youtube pamokos ir pavyzdziai\What are Delegates\obj\Debug\What are Delegates.csproj.CoreCompileInputs.cache
+C:\Users\Zygimantas\source\repos\Youtube pamokos ir pavyzdziai\What are Delegates\obj\Debug\What are Delegates.exe
+C:\Users\Zygimantas\source\repos\Youtube pamokos ir pavyzdziai\What are Delegates\obj\Debug\What are Delegates.pdb

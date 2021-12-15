@@ -1,0 +1,7 @@
+C:\Users\Zygimantas\source\repos\Pakartotinis visu uzduociu atlikimas\ReadOnly 1 Uzduotis\bin\Debug\ReadOnly 1 Uzduotis.exe.config
+C:\Users\Zygimantas\source\repos\Pakartotinis visu uzduociu atlikimas\ReadOnly 1 Uzduotis\bin\Debug\ReadOnly 1 Uzduotis.exe
+C:\Users\Zygimantas\source\repos\Pakartotinis visu uzduociu atlikimas\ReadOnly 1 Uzduotis\bin\Debug\ReadOnly 1 Uzduotis.pdb
+C:\Users\Zygimantas\source\repos\Pakartotinis visu uzduociu atlikimas\ReadOnly 1 Uzduotis\obj\Debug\ReadOnly 1 Uzduotis.csproj.CoreCompileInputs.cache
+C:\Users\Zygimantas\source\repos\Pakartotinis visu uzduociu atlikimas\ReadOnly 1 Uzduotis\obj\Debug\ReadOnly 1 Uzduotis.exe
+C:\Users\Zygimantas\source\repos\Pakartotinis visu uzduociu atlikimas\ReadOnly 1 Uzduotis\obj\Debug\ReadOnly 1 Uzduotis.pdb
+C:\Users\Zygimantas\source\repos\Pakartotinis visu uzduociu atlikimas\ReadOnly 1 Uzduotis\obj\Debug\ReadOnly 1 Uzduotis.csproj.AssemblyReference.cache

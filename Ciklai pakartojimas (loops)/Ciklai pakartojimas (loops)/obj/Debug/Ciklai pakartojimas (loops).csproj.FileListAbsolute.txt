@@ -1,0 +1,7 @@
+C:\Users\Zygimantas\source\repos\Ciklai pakartojimas (loops)\Ciklai pakartojimas (loops)\bin\Debug\Ciklai pakartojimas (loops).exe.config
+C:\Users\Zygimantas\source\repos\Ciklai pakartojimas (loops)\Ciklai pakartojimas (loops)\bin\Debug\Ciklai pakartojimas (loops).exe
+C:\Users\Zygimantas\source\repos\Ciklai pakartojimas (loops)\Ciklai pakartojimas (loops)\bin\Debug\Ciklai pakartojimas (loops).pdb
+C:\Users\Zygimantas\source\repos\Ciklai pakartojimas (loops)\Ciklai pakartojimas (loops)\obj\Debug\Ciklai pakartojimas (loops).csproj.AssemblyReference.cache
+C:\Users\Zygimantas\source\repos\Ciklai pakartojimas (loops)\Ciklai pakartojimas (loops)\obj\Debug\Ciklai pakartojimas (loops).csproj.CoreCompileInputs.cache
+C:\Users\Zygimantas\source\repos\Ciklai pakartojimas (loops)\Ciklai pakartojimas (loops)\obj\Debug\Ciklai pakartojimas (loops).exe
+C:\Users\Zygimantas\source\repos\Ciklai pakartojimas (loops)\Ciklai pakartojimas (loops)\obj\Debug\Ciklai pakartojimas (loops).pdb

@@ -1,0 +1,7 @@
+C:\Users\Zygimantas\source\repos\Skaiciuotuvo sukurimas\Skaiciuotuvo sukurimas\bin\Debug\Skaiciuotuvo sukurimas.exe.config
+C:\Users\Zygimantas\source\repos\Skaiciuotuvo sukurimas\Skaiciuotuvo sukurimas\bin\Debug\Skaiciuotuvo sukurimas.exe
+C:\Users\Zygimantas\source\repos\Skaiciuotuvo sukurimas\Skaiciuotuvo sukurimas\bin\Debug\Skaiciuotuvo sukurimas.pdb
+C:\Users\Zygimantas\source\repos\Skaiciuotuvo sukurimas\Skaiciuotuvo sukurimas\obj\Debug\Skaiciuotuvo sukurimas.csproj.AssemblyReference.cache
+C:\Users\Zygimantas\source\repos\Skaiciuotuvo sukurimas\Skaiciuotuvo sukurimas\obj\Debug\Skaiciuotuvo sukurimas.csproj.CoreCompileInputs.cache
+C:\Users\Zygimantas\source\repos\Skaiciuotuvo sukurimas\Skaiciuotuvo sukurimas\obj\Debug\Skaiciuotuvo sukurimas.exe
+C:\Users\Zygimantas\source\repos\Skaiciuotuvo sukurimas\Skaiciuotuvo sukurimas\obj\Debug\Skaiciuotuvo sukurimas.pdb

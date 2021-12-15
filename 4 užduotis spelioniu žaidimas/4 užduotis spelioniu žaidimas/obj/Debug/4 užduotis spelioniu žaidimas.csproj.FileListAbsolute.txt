@@ -1,0 +1,7 @@
+C:\Users\Zygimantas\source\repos\4 užduotis spelioniu žaidimas\4 užduotis spelioniu žaidimas\obj\Debug\4 užduotis spelioniu žaidimas.csproj.AssemblyReference.cache
+C:\Users\Zygimantas\source\repos\4 užduotis spelioniu žaidimas\4 užduotis spelioniu žaidimas\obj\Debug\4 užduotis spelioniu žaidimas.csproj.CoreCompileInputs.cache
+C:\Users\Zygimantas\source\repos\4 užduotis spelioniu žaidimas\4 užduotis spelioniu žaidimas\bin\Debug\4 užduotis spelioniu žaidimas.exe.config
+C:\Users\Zygimantas\source\repos\4 užduotis spelioniu žaidimas\4 užduotis spelioniu žaidimas\bin\Debug\4 užduotis spelioniu žaidimas.exe
+C:\Users\Zygimantas\source\repos\4 užduotis spelioniu žaidimas\4 užduotis spelioniu žaidimas\bin\Debug\4 užduotis spelioniu žaidimas.pdb
+C:\Users\Zygimantas\source\repos\4 užduotis spelioniu žaidimas\4 užduotis spelioniu žaidimas\obj\Debug\4 užduotis spelioniu žaidimas.exe
+C:\Users\Zygimantas\source\repos\4 užduotis spelioniu žaidimas\4 užduotis spelioniu žaidimas\obj\Debug\4 užduotis spelioniu žaidimas.pdb

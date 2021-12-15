@@ -1,0 +1,16 @@
+C:\Users\Zygimantas\source\repos\Demo Strings\obj\Debug\net5.0\Demo Strings.csproj.AssemblyReference.cache
+C:\Users\Zygimantas\source\repos\Demo Strings\obj\Debug\net5.0\Demo Strings.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Zygimantas\source\repos\Demo Strings\obj\Debug\net5.0\Demo Strings.AssemblyInfoInputs.cache
+C:\Users\Zygimantas\source\repos\Demo Strings\obj\Debug\net5.0\Demo Strings.AssemblyInfo.cs
+C:\Users\Zygimantas\source\repos\Demo Strings\obj\Debug\net5.0\Demo Strings.csproj.CoreCompileInputs.cache
+C:\Users\Zygimantas\source\repos\Demo Strings\bin\Debug\net5.0\Demo Strings.exe
+C:\Users\Zygimantas\source\repos\Demo Strings\bin\Debug\net5.0\Demo Strings.deps.json
+C:\Users\Zygimantas\source\repos\Demo Strings\bin\Debug\net5.0\Demo Strings.runtimeconfig.json
+C:\Users\Zygimantas\source\repos\Demo Strings\bin\Debug\net5.0\Demo Strings.runtimeconfig.dev.json
+C:\Users\Zygimantas\source\repos\Demo Strings\bin\Debug\net5.0\Demo Strings.dll
+C:\Users\Zygimantas\source\repos\Demo Strings\bin\Debug\net5.0\ref\Demo Strings.dll
+C:\Users\Zygimantas\source\repos\Demo Strings\bin\Debug\net5.0\Demo Strings.pdb
+C:\Users\Zygimantas\source\repos\Demo Strings\obj\Debug\net5.0\Demo Strings.dll
+C:\Users\Zygimantas\source\repos\Demo Strings\obj\Debug\net5.0\ref\Demo Strings.dll
+C:\Users\Zygimantas\source\repos\Demo Strings\obj\Debug\net5.0\Demo Strings.pdb
+C:\Users\Zygimantas\source\repos\Demo Strings\obj\Debug\net5.0\Demo Strings.genruntimeconfig.cache

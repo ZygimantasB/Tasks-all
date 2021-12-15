@@ -1,0 +1,6 @@
+C:\Users\Zygimantas\source\repos\Pakartotinis visu uzduociu atlikimas\Pakartotinis visu uzduociu atlikimas\bin\Debug\Pakartotinis visu uzduociu atlikimas.exe.config
+C:\Users\Zygimantas\source\repos\Pakartotinis visu uzduociu atlikimas\Pakartotinis visu uzduociu atlikimas\bin\Debug\Pakartotinis visu uzduociu atlikimas.exe
+C:\Users\Zygimantas\source\repos\Pakartotinis visu uzduociu atlikimas\Pakartotinis visu uzduociu atlikimas\bin\Debug\Pakartotinis visu uzduociu atlikimas.pdb
+C:\Users\Zygimantas\source\repos\Pakartotinis visu uzduociu atlikimas\Pakartotinis visu uzduociu atlikimas\obj\Debug\Apskritimo apskaiciavimas.csproj.CoreCompileInputs.cache
+C:\Users\Zygimantas\source\repos\Pakartotinis visu uzduociu atlikimas\Pakartotinis visu uzduociu atlikimas\obj\Debug\Pakartotinis visu uzduociu atlikimas.exe
+C:\Users\Zygimantas\source\repos\Pakartotinis visu uzduociu atlikimas\Pakartotinis visu uzduociu atlikimas\obj\Debug\Pakartotinis visu uzduociu atlikimas.pdb

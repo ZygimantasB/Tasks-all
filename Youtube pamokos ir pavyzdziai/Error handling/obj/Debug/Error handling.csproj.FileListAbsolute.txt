@@ -1,0 +1,6 @@
+C:\Users\Zygimantas\source\repos\Youtube pamokos ir pavyzdziai\Error handling\bin\Debug\Error handling.exe.config
+C:\Users\Zygimantas\source\repos\Youtube pamokos ir pavyzdziai\Error handling\bin\Debug\Error handling.exe
+C:\Users\Zygimantas\source\repos\Youtube pamokos ir pavyzdziai\Error handling\bin\Debug\Error handling.pdb
+C:\Users\Zygimantas\source\repos\Youtube pamokos ir pavyzdziai\Error handling\obj\Debug\Error handling.csproj.CoreCompileInputs.cache
+C:\Users\Zygimantas\source\repos\Youtube pamokos ir pavyzdziai\Error handling\obj\Debug\Error handling.exe
+C:\Users\Zygimantas\source\repos\Youtube pamokos ir pavyzdziai\Error handling\obj\Debug\Error handling.pdb

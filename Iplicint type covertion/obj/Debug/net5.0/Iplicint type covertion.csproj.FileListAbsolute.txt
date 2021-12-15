@@ -1,0 +1,16 @@
+C:\Users\Zygimantas\source\repos\Iplicint type covertion\bin\Debug\net5.0\Iplicint type covertion.exe
+C:\Users\Zygimantas\source\repos\Iplicint type covertion\bin\Debug\net5.0\Iplicint type covertion.deps.json
+C:\Users\Zygimantas\source\repos\Iplicint type covertion\bin\Debug\net5.0\Iplicint type covertion.runtimeconfig.json
+C:\Users\Zygimantas\source\repos\Iplicint type covertion\bin\Debug\net5.0\Iplicint type covertion.runtimeconfig.dev.json
+C:\Users\Zygimantas\source\repos\Iplicint type covertion\bin\Debug\net5.0\Iplicint type covertion.dll
+C:\Users\Zygimantas\source\repos\Iplicint type covertion\bin\Debug\net5.0\ref\Iplicint type covertion.dll
+C:\Users\Zygimantas\source\repos\Iplicint type covertion\bin\Debug\net5.0\Iplicint type covertion.pdb
+C:\Users\Zygimantas\source\repos\Iplicint type covertion\obj\Debug\net5.0\Iplicint type covertion.csproj.AssemblyReference.cache
+C:\Users\Zygimantas\source\repos\Iplicint type covertion\obj\Debug\net5.0\Iplicint type covertion.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Zygimantas\source\repos\Iplicint type covertion\obj\Debug\net5.0\Iplicint type covertion.AssemblyInfoInputs.cache
+C:\Users\Zygimantas\source\repos\Iplicint type covertion\obj\Debug\net5.0\Iplicint type covertion.AssemblyInfo.cs
+C:\Users\Zygimantas\source\repos\Iplicint type covertion\obj\Debug\net5.0\Iplicint type covertion.csproj.CoreCompileInputs.cache
+C:\Users\Zygimantas\source\repos\Iplicint type covertion\obj\Debug\net5.0\Iplicint type covertion.dll
+C:\Users\Zygimantas\source\repos\Iplicint type covertion\obj\Debug\net5.0\ref\Iplicint type covertion.dll
+C:\Users\Zygimantas\source\repos\Iplicint type covertion\obj\Debug\net5.0\Iplicint type covertion.pdb
+C:\Users\Zygimantas\source\repos\Iplicint type covertion\obj\Debug\net5.0\Iplicint type covertion.genruntimeconfig.cache

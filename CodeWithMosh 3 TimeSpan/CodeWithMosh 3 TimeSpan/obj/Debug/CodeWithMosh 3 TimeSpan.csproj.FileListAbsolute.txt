@@ -1,0 +1,6 @@
+C:\Users\Zygimantas\source\repos\CodeWithMosh 3 TimeSpan\CodeWithMosh 3 TimeSpan\bin\Debug\CodeWithMosh 3 TimeSpan.exe.config
+C:\Users\Zygimantas\source\repos\CodeWithMosh 3 TimeSpan\CodeWithMosh 3 TimeSpan\bin\Debug\CodeWithMosh 3 TimeSpan.exe
+C:\Users\Zygimantas\source\repos\CodeWithMosh 3 TimeSpan\CodeWithMosh 3 TimeSpan\bin\Debug\CodeWithMosh 3 TimeSpan.pdb
+C:\Users\Zygimantas\source\repos\CodeWithMosh 3 TimeSpan\CodeWithMosh 3 TimeSpan\obj\Debug\CodeWithMosh 3 TimeSpan.csproj.CoreCompileInputs.cache
+C:\Users\Zygimantas\source\repos\CodeWithMosh 3 TimeSpan\CodeWithMosh 3 TimeSpan\obj\Debug\CodeWithMosh 3 TimeSpan.exe
+C:\Users\Zygimantas\source\repos\CodeWithMosh 3 TimeSpan\CodeWithMosh 3 TimeSpan\obj\Debug\CodeWithMosh 3 TimeSpan.pdb

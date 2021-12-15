@@ -1,0 +1,7 @@
+C:\Users\Zygimantas\source\repos\Klasės 2 pamoka\Klasės 2 pamoka\bin\Debug\Klasės 2 pamoka.exe.config
+C:\Users\Zygimantas\source\repos\Klasės 2 pamoka\Klasės 2 pamoka\bin\Debug\Klasės 2 pamoka.exe
+C:\Users\Zygimantas\source\repos\Klasės 2 pamoka\Klasės 2 pamoka\bin\Debug\Klasės 2 pamoka.pdb
+C:\Users\Zygimantas\source\repos\Klasės 2 pamoka\Klasės 2 pamoka\obj\Debug\Klasės 2 pamoka.csproj.AssemblyReference.cache
+C:\Users\Zygimantas\source\repos\Klasės 2 pamoka\Klasės 2 pamoka\obj\Debug\Klasės 2 pamoka.csproj.CoreCompileInputs.cache
+C:\Users\Zygimantas\source\repos\Klasės 2 pamoka\Klasės 2 pamoka\obj\Debug\Klasės 2 pamoka.exe
+C:\Users\Zygimantas\source\repos\Klasės 2 pamoka\Klasės 2 pamoka\obj\Debug\Klasės 2 pamoka.pdb

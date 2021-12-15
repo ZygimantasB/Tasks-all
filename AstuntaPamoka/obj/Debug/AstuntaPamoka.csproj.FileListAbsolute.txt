@@ -1,0 +1,7 @@
+C:\Users\Andrew\OneDrive\Documents\Projects\PirmasCSharpDarbas\AstuntaPamoka\bin\Debug\AstuntaPamoka.exe.config
+C:\Users\Andrew\OneDrive\Documents\Projects\PirmasCSharpDarbas\AstuntaPamoka\bin\Debug\AstuntaPamoka.exe
+C:\Users\Andrew\OneDrive\Documents\Projects\PirmasCSharpDarbas\AstuntaPamoka\bin\Debug\AstuntaPamoka.pdb
+C:\Users\Andrew\OneDrive\Documents\Projects\PirmasCSharpDarbas\AstuntaPamoka\obj\Debug\AstuntaPamoka.csprojAssemblyReference.cache
+C:\Users\Andrew\OneDrive\Documents\Projects\PirmasCSharpDarbas\AstuntaPamoka\obj\Debug\AstuntaPamoka.csproj.CoreCompileInputs.cache
+C:\Users\Andrew\OneDrive\Documents\Projects\PirmasCSharpDarbas\AstuntaPamoka\obj\Debug\AstuntaPamoka.exe
+C:\Users\Andrew\OneDrive\Documents\Projects\PirmasCSharpDarbas\AstuntaPamoka\obj\Debug\AstuntaPamoka.pdb

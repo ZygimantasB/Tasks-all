@@ -1,0 +1,7 @@
+C:\Users\Zygimantas\source\repos\Mokomes_klases\Mokomes_klases\bin\Debug\Mokomes_klases.exe.config
+C:\Users\Zygimantas\source\repos\Mokomes_klases\Mokomes_klases\bin\Debug\Mokomes_klases.exe
+C:\Users\Zygimantas\source\repos\Mokomes_klases\Mokomes_klases\bin\Debug\Mokomes_klases.pdb
+C:\Users\Zygimantas\source\repos\Mokomes_klases\Mokomes_klases\obj\Debug\Mokomes_klases.csproj.AssemblyReference.cache
+C:\Users\Zygimantas\source\repos\Mokomes_klases\Mokomes_klases\obj\Debug\Mokomes_klases.csproj.CoreCompileInputs.cache
+C:\Users\Zygimantas\source\repos\Mokomes_klases\Mokomes_klases\obj\Debug\Mokomes_klases.exe
+C:\Users\Zygimantas\source\repos\Mokomes_klases\Mokomes_klases\obj\Debug\Mokomes_klases.pdb

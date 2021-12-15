@@ -1,0 +1,7 @@
+C:\Users\Zygimantas\source\repos\w3resource File Handling\w3resource File Handling\bin\Debug\w3resource File Handling.exe.config
+C:\Users\Zygimantas\source\repos\w3resource File Handling\w3resource File Handling\bin\Debug\w3resource File Handling.exe
+C:\Users\Zygimantas\source\repos\w3resource File Handling\w3resource File Handling\bin\Debug\w3resource File Handling.pdb
+C:\Users\Zygimantas\source\repos\w3resource File Handling\w3resource File Handling\obj\Debug\Uzduotis 1.csproj.AssemblyReference.cache
+C:\Users\Zygimantas\source\repos\w3resource File Handling\w3resource File Handling\obj\Debug\Uzduotis 1.csproj.CoreCompileInputs.cache
+C:\Users\Zygimantas\source\repos\w3resource File Handling\w3resource File Handling\obj\Debug\w3resource File Handling.exe
+C:\Users\Zygimantas\source\repos\w3resource File Handling\w3resource File Handling\obj\Debug\w3resource File Handling.pdb

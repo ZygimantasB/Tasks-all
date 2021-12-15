@@ -1,0 +1,7 @@
+C:\Users\Zygimantas\source\repos\Snipas uzduotis su list\Snipas uzduotis su list\bin\Debug\Snipas uzduotis su list.exe.config
+C:\Users\Zygimantas\source\repos\Snipas uzduotis su list\Snipas uzduotis su list\bin\Debug\Snipas uzduotis su list.exe
+C:\Users\Zygimantas\source\repos\Snipas uzduotis su list\Snipas uzduotis su list\bin\Debug\Snipas uzduotis su list.pdb
+C:\Users\Zygimantas\source\repos\Snipas uzduotis su list\Snipas uzduotis su list\obj\Debug\Snipas uzduotis su list.csproj.AssemblyReference.cache
+C:\Users\Zygimantas\source\repos\Snipas uzduotis su list\Snipas uzduotis su list\obj\Debug\Snipas uzduotis su list.csproj.CoreCompileInputs.cache
+C:\Users\Zygimantas\source\repos\Snipas uzduotis su list\Snipas uzduotis su list\obj\Debug\Snipas uzduotis su list.exe
+C:\Users\Zygimantas\source\repos\Snipas uzduotis su list\Snipas uzduotis su list\obj\Debug\Snipas uzduotis su list.pdb

@@ -1,0 +1,7 @@
+C:\Users\Zygimantas\source\repos\String uždaviniai\String uždaviniai\bin\Debug\String uždaviniai.exe.config
+C:\Users\Zygimantas\source\repos\String uždaviniai\String uždaviniai\bin\Debug\String uždaviniai.exe
+C:\Users\Zygimantas\source\repos\String uždaviniai\String uždaviniai\bin\Debug\String uždaviniai.pdb
+C:\Users\Zygimantas\source\repos\String uždaviniai\String uždaviniai\obj\Debug\String uždaviniai.csproj.AssemblyReference.cache
+C:\Users\Zygimantas\source\repos\String uždaviniai\String uždaviniai\obj\Debug\String uždaviniai.csproj.CoreCompileInputs.cache
+C:\Users\Zygimantas\source\repos\String uždaviniai\String uždaviniai\obj\Debug\String uždaviniai.exe
+C:\Users\Zygimantas\source\repos\String uždaviniai\String uždaviniai\obj\Debug\String uždaviniai.pdb

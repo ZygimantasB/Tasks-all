@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31702.278
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Spelioniu zaidimas", "Spelioniu zaidimas\Spelioniu zaidimas.csproj", "{BDBC7823-2158-472C-ADFB-8B26B889471F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{BDBC7823-2158-472C-ADFB-8B26B889471F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BDBC7823-2158-472C-ADFB-8B26B889471F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BDBC7823-2158-472C-ADFB-8B26B889471F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BDBC7823-2158-472C-ADFB-8B26B889471F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {F92BFB67-129D-4033-B09F-9F6F31985326}
+	EndGlobalSection
+EndGlobal

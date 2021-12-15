@@ -1,0 +1,7 @@
+C:\Users\Zygimantas\source\repos\38 skaidre tarpine uzduotis\38 skaidre tarpine uzduotis\bin\Debug\38 skaidre tarpine uzduotis.exe.config
+C:\Users\Zygimantas\source\repos\38 skaidre tarpine uzduotis\38 skaidre tarpine uzduotis\bin\Debug\38 skaidre tarpine uzduotis.exe
+C:\Users\Zygimantas\source\repos\38 skaidre tarpine uzduotis\38 skaidre tarpine uzduotis\bin\Debug\38 skaidre tarpine uzduotis.pdb
+C:\Users\Zygimantas\source\repos\38 skaidre tarpine uzduotis\38 skaidre tarpine uzduotis\obj\Debug\38 skaidre tarpine uzduotis.csproj.AssemblyReference.cache
+C:\Users\Zygimantas\source\repos\38 skaidre tarpine uzduotis\38 skaidre tarpine uzduotis\obj\Debug\38 skaidre tarpine uzduotis.csproj.CoreCompileInputs.cache
+C:\Users\Zygimantas\source\repos\38 skaidre tarpine uzduotis\38 skaidre tarpine uzduotis\obj\Debug\38 skaidre tarpine uzduotis.exe
+C:\Users\Zygimantas\source\repos\38 skaidre tarpine uzduotis\38 skaidre tarpine uzduotis\obj\Debug\38 skaidre tarpine uzduotis.pdb

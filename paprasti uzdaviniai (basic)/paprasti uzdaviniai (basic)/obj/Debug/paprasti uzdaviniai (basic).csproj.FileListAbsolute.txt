@@ -1,0 +1,7 @@
+C:\Users\Zygimantas\source\repos\paprasti uzdaviniai (basic)\paprasti uzdaviniai (basic)\bin\Debug\paprasti uzdaviniai (basic).exe.config
+C:\Users\Zygimantas\source\repos\paprasti uzdaviniai (basic)\paprasti uzdaviniai (basic)\bin\Debug\paprasti uzdaviniai (basic).exe
+C:\Users\Zygimantas\source\repos\paprasti uzdaviniai (basic)\paprasti uzdaviniai (basic)\bin\Debug\paprasti uzdaviniai (basic).pdb
+C:\Users\Zygimantas\source\repos\paprasti uzdaviniai (basic)\paprasti uzdaviniai (basic)\obj\Debug\paprasti uzdaviniai (basic).csproj.CoreCompileInputs.cache
+C:\Users\Zygimantas\source\repos\paprasti uzdaviniai (basic)\paprasti uzdaviniai (basic)\obj\Debug\paprasti uzdaviniai (basic).exe
+C:\Users\Zygimantas\source\repos\paprasti uzdaviniai (basic)\paprasti uzdaviniai (basic)\obj\Debug\paprasti uzdaviniai (basic).pdb
+C:\Users\Zygimantas\source\repos\paprasti uzdaviniai (basic)\paprasti uzdaviniai (basic)\obj\Debug\paprasti uzdaviniai (basic).csproj.AssemblyReference.cache

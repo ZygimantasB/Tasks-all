@@ -1,0 +1,7 @@
+C:\Users\Zygimantas\source\repos\If uzduotis2\If uzduotis2\bin\Debug\If uzduotis2.exe.config
+C:\Users\Zygimantas\source\repos\If uzduotis2\If uzduotis2\bin\Debug\If uzduotis2.exe
+C:\Users\Zygimantas\source\repos\If uzduotis2\If uzduotis2\bin\Debug\If uzduotis2.pdb
+C:\Users\Zygimantas\source\repos\If uzduotis2\If uzduotis2\obj\Debug\If uzduotis2.csproj.AssemblyReference.cache
+C:\Users\Zygimantas\source\repos\If uzduotis2\If uzduotis2\obj\Debug\If uzduotis2.csproj.CoreCompileInputs.cache
+C:\Users\Zygimantas\source\repos\If uzduotis2\If uzduotis2\obj\Debug\If uzduotis2.exe
+C:\Users\Zygimantas\source\repos\If uzduotis2\If uzduotis2\obj\Debug\If uzduotis2.pdb

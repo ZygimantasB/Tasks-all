@@ -1,0 +1,5 @@
+C:\Users\Zygimantas\source\repos\New Operator\obj\Debug\net5.0\New Operator.csproj.AssemblyReference.cache
+C:\Users\Zygimantas\source\repos\New Operator\obj\Debug\net5.0\New Operator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Zygimantas\source\repos\New Operator\obj\Debug\net5.0\New Operator.AssemblyInfoInputs.cache
+C:\Users\Zygimantas\source\repos\New Operator\obj\Debug\net5.0\New Operator.AssemblyInfo.cs
+C:\Users\Zygimantas\source\repos\New Operator\obj\Debug\net5.0\New Operator.csproj.CoreCompileInputs.cache

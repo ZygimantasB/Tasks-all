@@ -1,0 +1,6 @@
+C:\Users\Zygimantas\source\repos\Klases paveldejimas\Paveldėjimai\bin\Debug\Paveldėjimai.exe.config
+C:\Users\Zygimantas\source\repos\Klases paveldejimas\Paveldėjimai\bin\Debug\Paveldėjimai.exe
+C:\Users\Zygimantas\source\repos\Klases paveldejimas\Paveldėjimai\bin\Debug\Paveldėjimai.pdb
+C:\Users\Zygimantas\source\repos\Klases paveldejimas\Paveldėjimai\obj\Debug\Paveldėjimai.csproj.CoreCompileInputs.cache
+C:\Users\Zygimantas\source\repos\Klases paveldejimas\Paveldėjimai\obj\Debug\Paveldėjimai.exe
+C:\Users\Zygimantas\source\repos\Klases paveldejimas\Paveldėjimai\obj\Debug\Paveldėjimai.pdb

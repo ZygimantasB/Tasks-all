@@ -1,0 +1,7 @@
+C:\Users\Zygimantas\source\repos\Youtube pamokos ir pavyzdziai\Managing Folders and Files\bin\Debug\Managing Folders and Files.exe.config
+C:\Users\Zygimantas\source\repos\Youtube pamokos ir pavyzdziai\Managing Folders and Files\bin\Debug\Managing Folders and Files.exe
+C:\Users\Zygimantas\source\repos\Youtube pamokos ir pavyzdziai\Managing Folders and Files\bin\Debug\Managing Folders and Files.pdb
+C:\Users\Zygimantas\source\repos\Youtube pamokos ir pavyzdziai\Managing Folders and Files\obj\Debug\Managing Folders and Files.csproj.AssemblyReference.cache
+C:\Users\Zygimantas\source\repos\Youtube pamokos ir pavyzdziai\Managing Folders and Files\obj\Debug\Managing Folders and Files.csproj.CoreCompileInputs.cache
+C:\Users\Zygimantas\source\repos\Youtube pamokos ir pavyzdziai\Managing Folders and Files\obj\Debug\Managing Folders and Files.exe
+C:\Users\Zygimantas\source\repos\Youtube pamokos ir pavyzdziai\Managing Folders and Files\obj\Debug\Managing Folders and Files.pdb

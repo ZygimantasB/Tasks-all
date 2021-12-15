@@ -1,0 +1,7 @@
+C:\Users\Zygimantas\source\repos\Antras variantas 8 skaidre\Antras variantas 8 skaidre\obj\Debug\Antras variantas 8 skaidre.csproj.AssemblyReference.cache
+C:\Users\Zygimantas\source\repos\Antras variantas 8 skaidre\Antras variantas 8 skaidre\obj\Debug\Antras variantas 8 skaidre.csproj.CoreCompileInputs.cache
+C:\Users\Zygimantas\source\repos\Antras variantas 8 skaidre\Antras variantas 8 skaidre\bin\Debug\Antras variantas 8 skaidre.exe.config
+C:\Users\Zygimantas\source\repos\Antras variantas 8 skaidre\Antras variantas 8 skaidre\bin\Debug\Antras variantas 8 skaidre.exe
+C:\Users\Zygimantas\source\repos\Antras variantas 8 skaidre\Antras variantas 8 skaidre\bin\Debug\Antras variantas 8 skaidre.pdb
+C:\Users\Zygimantas\source\repos\Antras variantas 8 skaidre\Antras variantas 8 skaidre\obj\Debug\Antras variantas 8 skaidre.exe
+C:\Users\Zygimantas\source\repos\Antras variantas 8 skaidre\Antras variantas 8 skaidre\obj\Debug\Antras variantas 8 skaidre.pdb

@@ -1,0 +1,6 @@
+C:\Users\Zygimantas\source\repos\Pakartotinis visu uzduociu atlikimas\Uzduotis apskritimas Uzduotis 1\bin\Debug\Uzduotis apskritimas Uzduotis 1.exe.config
+C:\Users\Zygimantas\source\repos\Pakartotinis visu uzduociu atlikimas\Uzduotis apskritimas Uzduotis 1\bin\Debug\Uzduotis apskritimas Uzduotis 1.exe
+C:\Users\Zygimantas\source\repos\Pakartotinis visu uzduociu atlikimas\Uzduotis apskritimas Uzduotis 1\bin\Debug\Uzduotis apskritimas Uzduotis 1.pdb
+C:\Users\Zygimantas\source\repos\Pakartotinis visu uzduociu atlikimas\Uzduotis apskritimas Uzduotis 1\obj\Debug\Uzduotis apskritimas Uzduotis 1.csproj.CoreCompileInputs.cache
+C:\Users\Zygimantas\source\repos\Pakartotinis visu uzduociu atlikimas\Uzduotis apskritimas Uzduotis 1\obj\Debug\Uzduotis apskritimas Uzduotis 1.exe
+C:\Users\Zygimantas\source\repos\Pakartotinis visu uzduociu atlikimas\Uzduotis apskritimas Uzduotis 1\obj\Debug\Uzduotis apskritimas Uzduotis 1.pdb

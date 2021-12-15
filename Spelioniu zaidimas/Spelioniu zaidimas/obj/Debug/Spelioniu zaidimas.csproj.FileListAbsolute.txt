@@ -1,0 +1,6 @@
+C:\Users\Zygimantas\source\repos\Spelioniu zaidimas\Spelioniu zaidimas\bin\Debug\Spelioniu zaidimas.exe.config
+C:\Users\Zygimantas\source\repos\Spelioniu zaidimas\Spelioniu zaidimas\bin\Debug\Spelioniu zaidimas.exe
+C:\Users\Zygimantas\source\repos\Spelioniu zaidimas\Spelioniu zaidimas\bin\Debug\Spelioniu zaidimas.pdb
+C:\Users\Zygimantas\source\repos\Spelioniu zaidimas\Spelioniu zaidimas\obj\Debug\Spelioniu zaidimas.csproj.CoreCompileInputs.cache
+C:\Users\Zygimantas\source\repos\Spelioniu zaidimas\Spelioniu zaidimas\obj\Debug\Spelioniu zaidimas.exe
+C:\Users\Zygimantas\source\repos\Spelioniu zaidimas\Spelioniu zaidimas\obj\Debug\Spelioniu zaidimas.pdb

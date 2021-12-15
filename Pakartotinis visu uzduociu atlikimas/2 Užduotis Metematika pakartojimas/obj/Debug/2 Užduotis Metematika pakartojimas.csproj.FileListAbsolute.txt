@@ -1,0 +1,6 @@
+C:\Users\Zygimantas\source\repos\Pakartotinis visu uzduociu atlikimas\2 Užduotis Metematika pakartojimas\bin\Debug\2 Užduotis Metematika pakartojimas.exe.config
+C:\Users\Zygimantas\source\repos\Pakartotinis visu uzduociu atlikimas\2 Užduotis Metematika pakartojimas\bin\Debug\2 Užduotis Metematika pakartojimas.exe
+C:\Users\Zygimantas\source\repos\Pakartotinis visu uzduociu atlikimas\2 Užduotis Metematika pakartojimas\bin\Debug\2 Užduotis Metematika pakartojimas.pdb
+C:\Users\Zygimantas\source\repos\Pakartotinis visu uzduociu atlikimas\2 Užduotis Metematika pakartojimas\obj\Debug\2 Užduotis Metematika pakartojimas.csproj.CoreCompileInputs.cache
+C:\Users\Zygimantas\source\repos\Pakartotinis visu uzduociu atlikimas\2 Užduotis Metematika pakartojimas\obj\Debug\2 Užduotis Metematika pakartojimas.exe
+C:\Users\Zygimantas\source\repos\Pakartotinis visu uzduociu atlikimas\2 Užduotis Metematika pakartojimas\obj\Debug\2 Užduotis Metematika pakartojimas.pdb

@@ -1,0 +1,7 @@
+C:\Users\Zygimantas\source\repos\Penkta papildoma užduotis\Penkta papildoma užduotis\bin\Debug\Penkta papildoma užduotis.exe.config
+C:\Users\Zygimantas\source\repos\Penkta papildoma užduotis\Penkta papildoma užduotis\bin\Debug\Penkta papildoma užduotis.exe
+C:\Users\Zygimantas\source\repos\Penkta papildoma užduotis\Penkta papildoma užduotis\bin\Debug\Penkta papildoma užduotis.pdb
+C:\Users\Zygimantas\source\repos\Penkta papildoma užduotis\Penkta papildoma užduotis\obj\Debug\Penkta papildoma užduotis.csproj.AssemblyReference.cache
+C:\Users\Zygimantas\source\repos\Penkta papildoma užduotis\Penkta papildoma užduotis\obj\Debug\Penkta papildoma užduotis.csproj.CoreCompileInputs.cache
+C:\Users\Zygimantas\source\repos\Penkta papildoma užduotis\Penkta papildoma užduotis\obj\Debug\Penkta papildoma užduotis.exe
+C:\Users\Zygimantas\source\repos\Penkta papildoma užduotis\Penkta papildoma užduotis\obj\Debug\Penkta papildoma užduotis.pdb
